@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OBJID="ark:/88435/8g84mn62h" TYPE="CompiledDigitalObject" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+<mets:metsHdr CREATEDATE="2017-05-15T09:19:42.901-04:00" LASTMODDATE="2017-05-15T09:19:42.901-04:00">
+<mets:metsDocumentID TYPE="PUDL">pudl0025/02/0604.mets</mets:metsDocumentID>
+</mets:metsHdr>
+<mets:dmdSec ID="qo0o2">
+<mets:mdRef LOCTYPE="URL" MDTYPE="MARC" xlink:href=""/>
+</mets:dmdSec>
+<mets:dmdSec ID="v7rjx">
+<mets:mdWrap MDTYPE="MODS">
+<mets:xmlData>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3             http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <mods:titleInfo>
+      <mods:title>Centros clandestinos de la ciudad de Buenos Aires</mods:title>
+   </mods:titleInfo>
+   <mods:name authority="naf" type="corporate">
+      <mods:namePart>Instituto Espacio para la Memoria (Argentina)</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:typeOfResource collection="yes" manuscript="yes">still image</mods:typeOfResource>
+   <mods:genre authority="aat">Posters</mods:genre>
+   <mods:originInfo>
+      <mods:place>
+         <mods:placeTerm type="text">Argentina</mods:placeTerm>
+      </mods:place>
+   </mods:originInfo>
+   <mods:language>
+      <mods:languageTerm authority="iso639-2b" type="code">spa</mods:languageTerm>
+   </mods:language>
+   <mods:physicalDescription>
+      <mods:extent>42 x 27 cm.</mods:extent>
+   </mods:physicalDescription>
+   <mods:subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/sh85006913#concept">
+      <mods:topic>Archives</mods:topic>
+   </mods:subject>
+   <mods:subject authority="lcsh">
+      <mods:topic>Human rights--Government policy</mods:topic>
+   </mods:subject>
+   <mods:subject authority="lcsh">
+      <mods:topic> Social rights--Government policy</mods:topic>
+   </mods:subject>
+   <mods:subject authority="local">
+      <mods:topic>Memory</mods:topic>
+   </mods:subject>
+   <mods:subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/sh2006002444#concept">
+      <mods:topic>Collective memory</mods:topic>
+   </mods:subject>
+   <mods:subject authority="local">
+      <mods:topic>Politics, activism and advocacy</mods:topic>
+   </mods:subject>
+   <mods:subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/sh94008953#concept">
+      <mods:topic>Human rights advocacy</mods:topic>
+   </mods:subject>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Latin American Posters Collection</mods:title>
+      </mods:titleInfo>
+      <mods:location>
+         <mods:url note="Digital Collection">http://pudl.princeton.edu/collections/pudl0025</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">NjP</mods:physicalLocation>
+      <mods:physicalLocation type="text">Princeton University Library. Latin American Ephemera Collections.</mods:physicalLocation>
+      <mods:url access="object in context" usage="primary display"/>
+   </mods:location>
+   <mods:accessCondition type="restrictionOnAccess">The collection is open for research use.</mods:accessCondition>
+   <mods:accessCondition type="useAndReproduction">No restrictions. Researchers are responsible for determining
+                any copyright questions.</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:recordIdentifier>http://diglib.princeton.edu/mdata/pudl0025/02/0604.mods</mods:recordIdentifier>
+   </mods:recordInfo>
+</mods:mods>
+</mets:xmlData>
+</mets:mdWrap>
+</mets:dmdSec>
+<mets:fileSec>
+<mets:fileGrp USE="thumbnail">
+<mets:file ID="sfv59" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/02/0604/00000001.tif"/>
+</mets:file>
+</mets:fileGrp>
+<mets:fileGrp USE="masters">
+<mets:file CHECKSUM="963bc3827a87ee84663bc2e80cb742d4e46c6981" CHECKSUMTYPE="SHA-1" ID="dx1w8" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/02/0604/00000001.tif"/>
+</mets:file>
+</mets:fileGrp>
+</mets:fileSec>
+<mets:structMap TYPE="RelatedObjects">
+<mets:div DMDID="qo0o2 v7rjx" ID="e0drg" LABEL="Default">
+<mets:div CONTENTIDS="pudl0025" TYPE="IsPartOf"/>
+<mets:div ID="aggregates" TYPE="OrderedList">
+<mets:div ID="ioy61" LABEL="recto" ORDER="1" TYPE="Static">
+<mets:fptr FILEID="dx1w8"/>
+</mets:div>
+</mets:div>
+</mets:div>
+</mets:structMap>
+</mets:mets>

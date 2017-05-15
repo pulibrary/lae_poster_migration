@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OBJID="ark:/88435/h989r340k" TYPE="CompiledDigitalObject" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+<mets:metsHdr CREATEDATE="2017-05-13T14:59:32.571-04:00" LASTMODDATE="2017-05-13T14:59:32.571-04:00">
+<mets:metsDocumentID TYPE="PUDL">pudl0025/bo1po033.mets</mets:metsDocumentID>
+</mets:metsHdr>
+<mets:dmdSec ID="n0g0u">
+<mets:mdRef LOCTYPE="URL" MDTYPE="MARC" xlink:href=""/>
+</mets:dmdSec>
+<mets:dmdSec ID="ssajg">
+<mets:mdWrap MDTYPE="MODS">
+<mets:xmlData>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+   <mods:typeOfResource>still image</mods:typeOfResource>
+   <mods:titleInfo>
+      <mods:title>Referendum 2004</mods:title>
+   </mods:titleInfo>
+   <mods:name type="corporate">
+      <mods:namePart>Iniciativas Democraticas Bolivia</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:originInfo>
+      <mods:place>
+         <mods:placeTerm type="text">[Bolivia]</mods:placeTerm>
+      </mods:place>
+      <mods:publisher>[s.n.]</mods:publisher>
+      <mods:dateIssued>[n.d.]</mods:dateIssued>
+   </mods:originInfo>
+   <mods:physicalDescription>
+      <mods:extent>88 × 68 cm.</mods:extent>
+   </mods:physicalDescription>
+   <mods:genre authority="aat" type="worktype">posters</mods:genre>
+   <mods:subject>
+      <mods:geographic>Bolivia</mods:geographic>
+      <mods:topic>Politics and government</mods:topic>
+   </mods:subject>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Latin American Posters Collection</mods:title>
+      </mods:titleInfo>
+   <mods:location>
+<mods:url>http://pudl.princeton.edu/collections/pudl0025</mods:url>
+</mods:location>
+</mods:relatedItem>
+   <mods:identifier type="local">bo1po033</mods:identifier>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">NjP</mods:physicalLocation>
+      <mods:physicalLocation type="text">Princeton University Library. Latin American Ephemera Collections.</mods:physicalLocation>
+      <mods:url access="object in context" usage="primary display"/>
+   </mods:location>
+   <mods:accessCondition type="restrictionOnAccess">The collection is open for research use.</mods:accessCondition>
+   <mods:accessCondition type="useAndReproduction">No restrictions. Researchers are responsible for determining
+      any copyright questions.</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:recordIdentifier>http://diglib.princeton.edu/mdata/pudl0025/bo1po033.mods</mods:recordIdentifier>
+   </mods:recordInfo>
+</mods:mods>
+</mets:xmlData>
+</mets:mdWrap>
+</mets:dmdSec>
+<mets:fileSec>
+<mets:fileGrp USE="thumbnail">
+<mets:file ID="k8pcr" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1po033/00000001.tif"/>
+</mets:file>
+</mets:fileGrp>
+<mets:fileGrp USE="masters">
+<mets:file CHECKSUM="9f4417e4e61343fe097d2c89e2a6a75f59bc55a9" CHECKSUMTYPE="SHA-1" ID="ikspz" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1po033/00000001.tif"/>
+</mets:file>
+<mets:file CHECKSUM="1ada74503a632e2e9528ca5ecc7cabae74384bca" CHECKSUMTYPE="SHA-1" ID="fe3je" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1po033/00000002.tif"/>
+</mets:file>
+<mets:file CHECKSUM="bd4a1f1e246bcfeb1ddf754a8550943f9f5f7cc" CHECKSUMTYPE="SHA-1" ID="pp8zt" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1po033/00000003.tif"/>
+</mets:file>
+<mets:file CHECKSUM="973c4d43773899255d89608dd6fb3c9e66ff913d" CHECKSUMTYPE="SHA-1" ID="etupu" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1po033/00000004.tif"/>
+</mets:file>
+<mets:file CHECKSUM="aad1432e80b23e8cd2345fd81f502d59177d1c5f" CHECKSUMTYPE="SHA-1" ID="p8r0k" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1po033/00000005.tif"/>
+</mets:file>
+<mets:file CHECKSUM="3c4196acb2ddfa93a4e4be3319fec0a212319936" CHECKSUMTYPE="SHA-1" ID="z6rof" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1po033/00000006.tif"/>
+</mets:file>
+<mets:file CHECKSUM="e564b02215ba507a04cc3cafc2f9ab668027a16c" CHECKSUMTYPE="SHA-1" ID="jopzg" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1po033/00000007.tif"/>
+</mets:file>
+<mets:file CHECKSUM="a7ca9b865288b9b061b003542769423f5f492b51" CHECKSUMTYPE="SHA-1" ID="ffccr" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1po033/00000008.tif"/>
+</mets:file>
+<mets:file CHECKSUM="eddd30e8530ca4ef38e4824fb831457e559ec413" CHECKSUMTYPE="SHA-1" ID="cm5t7" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1po033/00000009.tif"/>
+</mets:file>
+<mets:file CHECKSUM="69acc950f7170bed2a6c29d5071555bba0a74370" CHECKSUMTYPE="SHA-1" ID="s8boj" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1po033/00000010.tif"/>
+</mets:file>
+<mets:file CHECKSUM="df5c6c6ce6d4ae13c696a5a957eab31015652b05" CHECKSUMTYPE="SHA-1" ID="vxv80" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1po033/00000011.tif"/>
+</mets:file>
+<mets:file CHECKSUM="460673d9c5ae66425f39cd3eac717e7b037d6a49" CHECKSUMTYPE="SHA-1" ID="yewcb" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1po033/00000012.tif"/>
+</mets:file>
+<mets:file CHECKSUM="f34cd7a8ed6c875a3abe28d5aeb8a61c2e212111" CHECKSUMTYPE="SHA-1" ID="exezl" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1po033/00000013.tif"/>
+</mets:file>
+<mets:file CHECKSUM="6ecc5a89029f32eeded07a8ae0b0bac644434c45" CHECKSUMTYPE="SHA-1" ID="e2a1g" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1po033/00000014.tif"/>
+</mets:file>
+<mets:file CHECKSUM="a012149a6c04e6bcba9e80c9f1e54f7bafa015dd" CHECKSUMTYPE="SHA-1" ID="yc4in" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1po033/00000015.tif"/>
+</mets:file>
+</mets:fileGrp>
+</mets:fileSec>
+<mets:structMap TYPE="RelatedObjects">
+<mets:div DMDID="n0g0u ssajg" ID="ldi6w" LABEL="Default">
+<mets:div CONTENTIDS="pudl0025" TYPE="IsPartOf"/>
+<mets:div ID="aggregates" TYPE="OrderedList">
+<mets:div ID="aglah" LABEL="cover" ORDER="1" TYPE="Static">
+<mets:fptr FILEID="ikspz"/>
+</mets:div>
+<mets:div ID="g26i1" LABEL="tittle page" ORDER="2" TYPE="Static">
+<mets:fptr FILEID="fe3je"/>
+</mets:div>
+<mets:div ID="hyjpu" LABEL="page001" ORDER="3" TYPE="Static">
+<mets:fptr FILEID="pp8zt"/>
+</mets:div>
+<mets:div ID="lrvx1" LABEL="page002" ORDER="4" TYPE="Static">
+<mets:fptr FILEID="etupu"/>
+</mets:div>
+<mets:div ID="t140d" LABEL="page003" ORDER="5" TYPE="Static">
+<mets:fptr FILEID="p8r0k"/>
+</mets:div>
+<mets:div ID="yr85b" LABEL="page004" ORDER="6" TYPE="Static">
+<mets:fptr FILEID="z6rof"/>
+</mets:div>
+<mets:div ID="llogy" LABEL="page005" ORDER="7" TYPE="Static">
+<mets:fptr FILEID="jopzg"/>
+</mets:div>
+<mets:div ID="kfyfh" LABEL="page006" ORDER="8" TYPE="Static">
+<mets:fptr FILEID="ffccr"/>
+</mets:div>
+<mets:div ID="d5xt7" LABEL="page007" ORDER="9" TYPE="Static">
+<mets:fptr FILEID="cm5t7"/>
+</mets:div>
+<mets:div ID="u0gv9" LABEL="page008" ORDER="10" TYPE="Static">
+<mets:fptr FILEID="s8boj"/>
+</mets:div>
+<mets:div ID="sd7oa" LABEL="page009" ORDER="11" TYPE="Static">
+<mets:fptr FILEID="vxv80"/>
+</mets:div>
+<mets:div ID="kbjuo" LABEL="page010" ORDER="12" TYPE="Static">
+<mets:fptr FILEID="yewcb"/>
+</mets:div>
+<mets:div ID="xc63m" LABEL="page011" ORDER="13" TYPE="Static">
+<mets:fptr FILEID="exezl"/>
+</mets:div>
+<mets:div ID="fwn8l" LABEL="page012" ORDER="14" TYPE="Static">
+<mets:fptr FILEID="e2a1g"/>
+</mets:div>
+<mets:div ID="p314r" LABEL="page013" ORDER="15" TYPE="Static">
+<mets:fptr FILEID="yc4in"/>
+</mets:div>
+</mets:div>
+</mets:div>
+</mets:structMap>
+<mets:structMap TYPE="Mixed">
+<mets:div DMDID="n0g0u ssajg" ID="c7zug" LABEL="Referéndum 2004" TYPE="Work">
+<mets:div ID="zm7du" LABEL="Referendum 2004 [cover]" ORDER="1" TYPE="Side">
+<mets:fptr FILEID="ikspz"/>
+</mets:div>
+<mets:div ID="f9sw4" LABEL="[title page]" ORDER="2" TYPE="Side">
+<mets:fptr FILEID="fe3je"/>
+</mets:div>
+<mets:div ID="hw4gk" LABEL="1" ORDER="3" TYPE="Static">
+<mets:fptr FILEID="pp8zt"/>
+</mets:div>
+<mets:div ID="j9pq3" LABEL="2" ORDER="4" TYPE="Static">
+<mets:fptr FILEID="etupu"/>
+</mets:div>
+<mets:div ID="mdur5" LABEL="3" ORDER="5" TYPE="Static">
+<mets:fptr FILEID="p8r0k"/>
+</mets:div>
+<mets:div ID="gbq0j" LABEL="4" ORDER="6" TYPE="Static">
+<mets:fptr FILEID="z6rof"/>
+</mets:div>
+<mets:div ID="nsu78" LABEL="5" ORDER="7" TYPE="Static">
+<mets:fptr FILEID="jopzg"/>
+</mets:div>
+<mets:div ID="f6kbn" LABEL="6" ORDER="8" TYPE="Static">
+<mets:fptr FILEID="ffccr"/>
+</mets:div>
+<mets:div ID="dolco" LABEL="7" ORDER="9" TYPE="Static">
+<mets:fptr FILEID="cm5t7"/>
+</mets:div>
+<mets:div ID="b5pf0" LABEL="8" ORDER="10" TYPE="Static">
+<mets:fptr FILEID="s8boj"/>
+</mets:div>
+<mets:div ID="llcty" LABEL="9" ORDER="11" TYPE="Static">
+<mets:fptr FILEID="vxv80"/>
+</mets:div>
+<mets:div ID="tnmz8" LABEL="10" ORDER="12" TYPE="Static">
+<mets:fptr FILEID="yewcb"/>
+</mets:div>
+<mets:div ID="xp8dv" LABEL="11" ORDER="13" TYPE="Static">
+<mets:fptr FILEID="exezl"/>
+</mets:div>
+<mets:div ID="mbccy" LABEL="12" ORDER="14" TYPE="Static">
+<mets:fptr FILEID="e2a1g"/>
+</mets:div>
+<mets:div ID="qdxav" LABEL="13" ORDER="15" TYPE="Static">
+<mets:fptr FILEID="yc4in"/>
+</mets:div>
+</mets:div>
+</mets:structMap>
+</mets:mets>

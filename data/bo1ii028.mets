@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OBJID="ark:/88435/hh63sw052" TYPE="CompiledDigitalObject" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+<mets:metsHdr CREATEDATE="2017-05-13T14:59:32.323-04:00" LASTMODDATE="2017-05-13T14:59:32.323-04:00">
+<mets:metsDocumentID TYPE="PUDL">pudl0025/bo1ii028.mets</mets:metsDocumentID>
+</mets:metsHdr>
+<mets:dmdSec ID="k6bcx">
+<mets:mdRef LOCTYPE="URL" MDTYPE="MARC" xlink:href=""/>
+</mets:dmdSec>
+<mets:dmdSec ID="a6bz8">
+<mets:mdWrap MDTYPE="MODS">
+<mets:xmlData>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+   <mods:typeOfResource>still image</mods:typeOfResource>
+   <mods:titleInfo>
+      <mods:title>2006 Calendar</mods:title>
+   </mods:titleInfo>
+   <mods:name type="corporate">
+      <mods:namePart>FUD</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name type="corporate">
+      <mods:namePart>UMSS</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name type="corporate">
+      <mods:namePart>Compas</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:originInfo>
+      <mods:place>
+         <mods:placeTerm type="text">[Bolivia]</mods:placeTerm>
+      </mods:place>
+      <mods:publisher>[s.n.]</mods:publisher>
+      <mods:dateIssued encoding="w3cdtf">2006</mods:dateIssued>
+   </mods:originInfo>
+   <mods:physicalDescription>
+      <mods:extent>52 × 37 cm.</mods:extent>
+   </mods:physicalDescription>
+   <mods:genre authority="aat" type="worktype">posters</mods:genre>
+   <mods:subject>
+      <mods:topic>Indigenous peoples</mods:topic>
+      <mods:geographic>Bolivia</mods:geographic>
+   </mods:subject>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Latin American Posters Collection</mods:title>
+      </mods:titleInfo>
+   <mods:location>
+<mods:url>http://pudl.princeton.edu/collections/pudl0025</mods:url>
+</mods:location>
+</mods:relatedItem>
+   <mods:identifier type="local">bo1ii028</mods:identifier>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">NjP</mods:physicalLocation>
+      <mods:physicalLocation type="text">Princeton University Library. Latin American Ephemera Collections.</mods:physicalLocation>
+      <mods:url access="object in context" usage="primary display"/>
+   </mods:location>
+   <mods:accessCondition type="restrictionOnAccess">The collection is open for research use.</mods:accessCondition>
+   <mods:accessCondition type="useAndReproduction">No restrictions. Researchers are responsible for determining
+      any copyright questions.</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:recordIdentifier>http://diglib.princeton.edu/mdata/pudl0025/bo1ii028.mods</mods:recordIdentifier>
+   </mods:recordInfo>
+</mods:mods>
+</mets:xmlData>
+</mets:mdWrap>
+</mets:dmdSec>
+<mets:fileSec>
+<mets:fileGrp USE="thumbnail">
+<mets:file ID="pmkx8" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii028/00000001.tif"/>
+</mets:file>
+</mets:fileGrp>
+<mets:fileGrp USE="masters">
+<mets:file CHECKSUM="691c1233740e605901f738fb2f992942c2161fb5" CHECKSUMTYPE="SHA-1" ID="lz9yk" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii028/00000001.tif"/>
+</mets:file>
+<mets:file CHECKSUM="a60ada6d246810d5fcf6896551f57f30338e5d98" CHECKSUMTYPE="SHA-1" ID="ze41t" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii028/00000002.tif"/>
+</mets:file>
+<mets:file CHECKSUM="fcdfa89f616e65d2a3f1a496401efc532bb17866" CHECKSUMTYPE="SHA-1" ID="xqy2h" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii028/00000003.tif"/>
+</mets:file>
+<mets:file CHECKSUM="a787565c32241342a939f2837c683f764d63f2e7" CHECKSUMTYPE="SHA-1" ID="zg0og" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii028/00000004.tif"/>
+</mets:file>
+<mets:file CHECKSUM="3f3750f74c8e01fb4f48a1d8be883d16cbbc5f8" CHECKSUMTYPE="SHA-1" ID="wh8el" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii028/00000005.tif"/>
+</mets:file>
+<mets:file CHECKSUM="f2d6d174138b9a4fc148338641a9bffa7c53530f" CHECKSUMTYPE="SHA-1" ID="mdpb6" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii028/00000006.tif"/>
+</mets:file>
+<mets:file CHECKSUM="745084ed5857e8527eb57ce192e0d18380b71ace" CHECKSUMTYPE="SHA-1" ID="ywqxw" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii028/00000007.tif"/>
+</mets:file>
+<mets:file CHECKSUM="79823507ede7b1cccef5624c069d389e80893dc1" CHECKSUMTYPE="SHA-1" ID="k90lv" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii028/00000008.tif"/>
+</mets:file>
+<mets:file CHECKSUM="319f327a333253a959e094c67b8900064d90cb92" CHECKSUMTYPE="SHA-1" ID="q2rl3" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii028/00000009.tif"/>
+</mets:file>
+<mets:file CHECKSUM="8062f07ab9b8b0efa97696a376594204fef69f66" CHECKSUMTYPE="SHA-1" ID="rfymd" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii028/00000010.tif"/>
+</mets:file>
+<mets:file CHECKSUM="b1ff71d55a4333c29f0b1af0634941e6005a173d" CHECKSUMTYPE="SHA-1" ID="gr4xe" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii028/00000011.tif"/>
+</mets:file>
+<mets:file CHECKSUM="add500569e5217056e771feaf904ec8b860cef47" CHECKSUMTYPE="SHA-1" ID="rjar4" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii028/00000012.tif"/>
+</mets:file>
+<mets:file CHECKSUM="5daaaf117aa52fea1648ea31240d1f494884af07" CHECKSUMTYPE="SHA-1" ID="fu6wr" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii028/00000013.tif"/>
+</mets:file>
+<mets:file CHECKSUM="8edd5b2fca641be0f83dc357989280eaca77b69e" CHECKSUMTYPE="SHA-1" ID="by403" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii028/00000014.tif"/>
+</mets:file>
+</mets:fileGrp>
+</mets:fileSec>
+<mets:structMap TYPE="RelatedObjects">
+<mets:div DMDID="k6bcx a6bz8" ID="yp3d6" LABEL="Default">
+<mets:div CONTENTIDS="pudl0025" TYPE="IsPartOf"/>
+<mets:div ID="aggregates" TYPE="OrderedList">
+<mets:div ID="ait7x" LABEL="cover" ORDER="1" TYPE="Static">
+<mets:fptr FILEID="lz9yk"/>
+</mets:div>
+<mets:div ID="ef48r" LABEL="back of front cover" ORDER="2" TYPE="Static">
+<mets:fptr FILEID="ze41t"/>
+</mets:div>
+<mets:div ID="br51h" LABEL="Enero Febrero" ORDER="3" TYPE="Static">
+<mets:fptr FILEID="xqy2h"/>
+</mets:div>
+<mets:div ID="pwcrq" LABEL="Back of Enero Febrero" ORDER="4" TYPE="Static">
+<mets:fptr FILEID="zg0og"/>
+</mets:div>
+<mets:div ID="cs1fb" LABEL="Marzo Abril" ORDER="5" TYPE="Static">
+<mets:fptr FILEID="wh8el"/>
+</mets:div>
+<mets:div ID="ojerw" LABEL="Back of Marzo Abril" ORDER="6" TYPE="Static">
+<mets:fptr FILEID="mdpb6"/>
+</mets:div>
+<mets:div ID="ac6ir" LABEL="Mayo Junio" ORDER="7" TYPE="Static">
+<mets:fptr FILEID="ywqxw"/>
+</mets:div>
+<mets:div ID="mx8xj" LABEL="Back of Mayo Junio" ORDER="8" TYPE="Static">
+<mets:fptr FILEID="k90lv"/>
+</mets:div>
+<mets:div ID="lcd33" LABEL="Julio Agosto" ORDER="9" TYPE="Static">
+<mets:fptr FILEID="q2rl3"/>
+</mets:div>
+<mets:div ID="f3fpe" LABEL="Back of Julio Agosto" ORDER="10" TYPE="Static">
+<mets:fptr FILEID="rfymd"/>
+</mets:div>
+<mets:div ID="lvtr2" LABEL="Septiembre Octubre" ORDER="11" TYPE="Static">
+<mets:fptr FILEID="gr4xe"/>
+</mets:div>
+<mets:div ID="apz9n" LABEL="Back of Septiembre Octubre" ORDER="12" TYPE="Static">
+<mets:fptr FILEID="rjar4"/>
+</mets:div>
+<mets:div ID="i0fj2" LABEL="Noviembre Diciembre" ORDER="13" TYPE="Static">
+<mets:fptr FILEID="fu6wr"/>
+</mets:div>
+<mets:div ID="ifzlg" LABEL="Back of Noviembre Diciembre" ORDER="14" TYPE="Static">
+<mets:fptr FILEID="by403"/>
+</mets:div>
+</mets:div>
+</mets:div>
+</mets:structMap>
+<mets:structMap TYPE="Physical">
+<mets:div DMDID="k6bcx a6bz8" ID="s0lwc" LABEL="2006 Calendar" TYPE="FlipChart">
+<mets:div ID="s6zfx" LABEL="[cover]">
+<mets:div ID="snmc2" LABEL="front" ORDER="1" TYPE="Side">
+<mets:fptr FILEID="lz9yk"/>
+</mets:div>
+<mets:div ID="y9yp4" LABEL="back" ORDER="2" TYPE="Side">
+<mets:fptr FILEID="ze41t"/>
+</mets:div>
+</mets:div>
+<mets:div ID="wqi3w" LABEL="Enero Febrero">
+<mets:div ID="xgj02" LABEL="front" ORDER="3" TYPE="Side">
+<mets:fptr FILEID="xqy2h"/>
+</mets:div>
+<mets:div ID="kyp9u" LABEL="back" ORDER="4" TYPE="Side">
+<mets:fptr FILEID="zg0og"/>
+</mets:div>
+</mets:div>
+<mets:div ID="ioa48" LABEL="Marzo Abril">
+<mets:div ID="zpodz" LABEL="front" ORDER="5" TYPE="Side">
+<mets:fptr FILEID="wh8el"/>
+</mets:div>
+<mets:div ID="g4mt5" LABEL="back" ORDER="6" TYPE="Side">
+<mets:fptr FILEID="mdpb6"/>
+</mets:div>
+</mets:div>
+<mets:div ID="hipsp" LABEL="Mayo Junio">
+<mets:div ID="gf5h1" LABEL="front" ORDER="7" TYPE="Side">
+<mets:fptr FILEID="ywqxw"/>
+</mets:div>
+<mets:div ID="x159d" LABEL="back" ORDER="8" TYPE="Side">
+<mets:fptr FILEID="k90lv"/>
+</mets:div>
+</mets:div>
+<mets:div ID="t9mjz" LABEL="Julio Agosto">
+<mets:div ID="tmitx" LABEL="front" ORDER="9" TYPE="Side">
+<mets:fptr FILEID="q2rl3"/>
+</mets:div>
+<mets:div ID="hb7tu" LABEL="back" ORDER="10" TYPE="Side">
+<mets:fptr FILEID="rfymd"/>
+</mets:div>
+</mets:div>
+<mets:div ID="h2shl" LABEL="Septiembre Octubre">
+<mets:div ID="ak8f0" LABEL="front" ORDER="11" TYPE="Side">
+<mets:fptr FILEID="gr4xe"/>
+</mets:div>
+<mets:div ID="nbl5q" LABEL="back" ORDER="12" TYPE="Side">
+<mets:fptr FILEID="rjar4"/>
+</mets:div>
+</mets:div>
+<mets:div ID="a7suw" LABEL="Noviembre Diciembre">
+<mets:div ID="zan9k" LABEL="front" ORDER="13" TYPE="Side">
+<mets:fptr FILEID="fu6wr"/>
+</mets:div>
+<mets:div ID="hocnh" LABEL="back" ORDER="14" TYPE="Side">
+<mets:fptr FILEID="by403"/>
+</mets:div>
+</mets:div>
+</mets:div>
+</mets:structMap>
+</mets:mets>

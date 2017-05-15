@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OBJID="ark:/88435/8s45qb560" TYPE="CompiledDigitalObject" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+<mets:metsHdr CREATEDATE="2017-05-15T09:19:46.194-04:00" LASTMODDATE="2017-05-15T09:19:46.194-04:00">
+<mets:metsDocumentID TYPE="PUDL">pudl0025/02/1608.mets</mets:metsDocumentID>
+</mets:metsHdr>
+<mets:dmdSec ID="giggr">
+<mets:mdRef LOCTYPE="URL" MDTYPE="MARC" xlink:href=""/>
+</mets:dmdSec>
+<mets:dmdSec ID="yobun">
+<mets:mdWrap MDTYPE="MODS">
+<mets:xmlData>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3             http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <mods:titleInfo>
+      <mods:title>Programa Empoderar - Proyecto Alianzas Rurales</mods:title>
+   </mods:titleInfo>
+   <mods:name type="corporate">
+      <mods:namePart>Proyecto de Alianzas Rurales</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name authority="naf" type="corporate">
+      <mods:namePart>Bolivia. Ministerio de Desarrollo Rural y Tierras</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:typeOfResource collection="yes" manuscript="yes">still image</mods:typeOfResource>
+   <mods:genre authority="aat">Posters</mods:genre>
+   <mods:originInfo>
+      <mods:place>
+         <mods:placeTerm type="text">Bolivia</mods:placeTerm>
+      </mods:place>
+      <mods:dateIssued encoding="w3cdtf" keyDate="yes">2010</mods:dateIssued>
+   </mods:originInfo>
+   <mods:language>
+      <mods:languageTerm authority="iso639-2b" type="code">spa</mods:languageTerm>
+   </mods:language>
+   <mods:physicalDescription>
+      <mods:extent>65 x 47 cm.</mods:extent>
+   </mods:physicalDescription>
+   <mods:subject authority="local">
+      <mods:topic>Government and policies</mods:topic>
+   </mods:subject>
+   <mods:subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/sh85002484#concept">
+      <mods:topic>Agriculture and state</mods:topic>
+   </mods:subject>
+   <mods:subject authority="local">
+      <mods:topic>Politics, activism and advocacy</mods:topic>
+   </mods:subject>
+   <mods:subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/sh85002483#concept">
+      <mods:topic>Agriculture and politics</mods:topic>
+   </mods:subject>
+   <mods:subject authority="local">
+      <mods:topic>Rural development projects</mods:topic>
+   </mods:subject>
+   <mods:subject authority="lcsh">
+      <mods:topic>Agricultural development projects</mods:topic>
+   </mods:subject>
+   <mods:subject authority="lcsh">
+      <mods:topic> Rural development projects</mods:topic>
+   </mods:subject>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Latin American Posters Collection</mods:title>
+      </mods:titleInfo>
+      <mods:location>
+         <mods:url note="Digital Collection">http://pudl.princeton.edu/collections/pudl0025</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">NjP</mods:physicalLocation>
+      <mods:physicalLocation type="text">Princeton University Library. Latin American Ephemera Collections.</mods:physicalLocation>
+      <mods:url access="object in context" usage="primary display"/>
+   </mods:location>
+   <mods:accessCondition type="restrictionOnAccess">The collection is open for research use.</mods:accessCondition>
+   <mods:accessCondition type="useAndReproduction">No restrictions. Researchers are responsible for determining
+                any copyright questions.</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:recordIdentifier>http://diglib.princeton.edu/mdata/pudl0025/02/1608.mods</mods:recordIdentifier>
+   </mods:recordInfo>
+</mods:mods>
+</mets:xmlData>
+</mets:mdWrap>
+</mets:dmdSec>
+<mets:fileSec>
+<mets:fileGrp USE="thumbnail">
+<mets:file ID="zrt1x" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/02/1608/00000001.tif"/>
+</mets:file>
+</mets:fileGrp>
+<mets:fileGrp USE="masters">
+<mets:file CHECKSUM="af67ee298a8af3d275144bba5bc7f9e8c91a547f" CHECKSUMTYPE="SHA-1" ID="yk61i" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/02/1608/00000001.tif"/>
+</mets:file>
+</mets:fileGrp>
+</mets:fileSec>
+<mets:structMap TYPE="RelatedObjects">
+<mets:div DMDID="giggr yobun" ID="zpiva" LABEL="Default">
+<mets:div CONTENTIDS="pudl0025" TYPE="IsPartOf"/>
+<mets:div ID="aggregates" TYPE="OrderedList">
+<mets:div ID="y0g6s" LABEL="recto" ORDER="1" TYPE="Static">
+<mets:fptr FILEID="yk61i"/>
+</mets:div>
+</mets:div>
+</mets:div>
+</mets:structMap>
+</mets:mets>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OBJID="ark:/88435/qn59q418d" TYPE="CompiledDigitalObject" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+<mets:metsHdr CREATEDATE="2017-05-13T14:59:35.051-04:00" LASTMODDATE="2017-05-13T14:59:35.051-04:00">
+<mets:metsDocumentID TYPE="PUDL">pudl0025/ve1po107.mets</mets:metsDocumentID>
+</mets:metsHdr>
+<mets:dmdSec ID="ki7df">
+<mets:mdRef LOCTYPE="URL" MDTYPE="MARC" xlink:href=""/>
+</mets:dmdSec>
+<mets:dmdSec ID="qtci4">
+<mets:mdWrap MDTYPE="MODS">
+<mets:xmlData>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+   <mods:typeOfResource>still image</mods:typeOfResource>
+   <mods:titleInfo>
+      <mods:title>Sí por Venezuela</mods:title>
+   </mods:titleInfo>
+   <mods:originInfo>
+      <mods:place>
+         <mods:placeTerm type="text">[Venezuela]</mods:placeTerm>
+      </mods:place>
+      <mods:publisher>[s.n.]</mods:publisher>
+      <mods:dateIssued>[n.d.]</mods:dateIssued>
+   </mods:originInfo>
+   <mods:physicalDescription>
+      <mods:extent>64 × 46 cm.</mods:extent>
+   </mods:physicalDescription>
+   <mods:genre authority="aat" type="worktype">posters</mods:genre>
+   <mods:subject>
+      <mods:geographic>Venezuela</mods:geographic>
+      <mods:topic>Politics and government</mods:topic>
+   </mods:subject>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Latin American Posters Collection</mods:title>
+      </mods:titleInfo>
+   <mods:location>
+<mods:url>http://pudl.princeton.edu/collections/pudl0025</mods:url>
+</mods:location>
+</mods:relatedItem>
+   <mods:identifier type="local">ve1po107</mods:identifier>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">NjP</mods:physicalLocation>
+      <mods:physicalLocation type="text">Princeton University Library. Latin American Ephemera Collections.</mods:physicalLocation>
+      <mods:url access="object in context" usage="primary display"/>
+   </mods:location>
+   <mods:accessCondition type="restrictionOnAccess">The collection is open for research use.</mods:accessCondition>
+   <mods:accessCondition type="useAndReproduction">No restrictions. Researchers are responsible for determining
+      any copyright questions.</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:recordIdentifier>http://diglib.princeton.edu/mdata/pudl0025/ve1po107.mods</mods:recordIdentifier>
+   </mods:recordInfo>
+</mods:mods>
+</mets:xmlData>
+</mets:mdWrap>
+</mets:dmdSec>
+<mets:fileSec>
+<mets:fileGrp USE="thumbnail">
+<mets:file ID="fyrne" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po107/00000001.tif"/>
+</mets:file>
+</mets:fileGrp>
+<mets:fileGrp USE="masters">
+<mets:file CHECKSUM="fa391b01fd960e4345d4686a343ec754ff7f70b3" CHECKSUMTYPE="SHA-1" ID="r93zm" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po107/00000001.tif"/>
+</mets:file>
+</mets:fileGrp>
+</mets:fileSec>
+<mets:structMap TYPE="RelatedObjects">
+<mets:div DMDID="ki7df qtci4" ID="q8khb" LABEL="Default">
+<mets:div CONTENTIDS="pudl0025" TYPE="IsPartOf"/>
+<mets:div ID="aggregates" TYPE="OrderedList">
+<mets:div ID="scgna" LABEL="front" ORDER="1" TYPE="Static">
+<mets:fptr FILEID="r93zm"/>
+</mets:div>
+</mets:div>
+</mets:div>
+</mets:structMap>
+<mets:structMap TYPE="Physical">
+<mets:div DMDID="ki7df qtci4" ID="th4is" TYPE="Sheet">
+<mets:div ID="da5m9" LABEL="front" ORDER="1" TYPE="Side">
+<mets:fptr FILEID="r93zm"/>
+</mets:div>
+</mets:div>
+</mets:structMap>
+</mets:mets>

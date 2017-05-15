@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OBJID="ark:/88435/vx021g452" TYPE="CompiledDigitalObject" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+<mets:metsHdr CREATEDATE="2017-05-15T09:19:42.615-04:00" LASTMODDATE="2017-05-15T09:19:42.615-04:00">
+<mets:metsDocumentID TYPE="PUDL">pudl0025/02/0541.mets</mets:metsDocumentID>
+</mets:metsHdr>
+<mets:dmdSec ID="nskci">
+<mets:mdRef LOCTYPE="URL" MDTYPE="MARC" xlink:href=""/>
+</mets:dmdSec>
+<mets:dmdSec ID="ksbsy">
+<mets:mdWrap MDTYPE="MODS">
+<mets:xmlData>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3             http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <mods:titleInfo>
+      <mods:title>MxE - Movimiento por Económicas</mods:title>
+   </mods:titleInfo>
+   <mods:name type="corporate">
+      <mods:namePart>La Corriente</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name type="corporate">
+      <mods:namePart>Movimiento por Económicas</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:typeOfResource collection="yes" manuscript="yes">still image</mods:typeOfResource>
+   <mods:genre authority="aat">Posters</mods:genre>
+   <mods:originInfo>
+      <mods:place>
+         <mods:placeTerm type="text">Argentina</mods:placeTerm>
+      </mods:place>
+   </mods:originInfo>
+   <mods:language>
+      <mods:languageTerm authority="iso639-2b" type="code">spa</mods:languageTerm>
+   </mods:language>
+   <mods:physicalDescription>
+      <mods:extent>42 x 32 cm.</mods:extent>
+   </mods:physicalDescription>
+   <mods:subject authority="local">
+      <mods:topic>Higher education</mods:topic>
+   </mods:subject>
+   <mods:subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/sh85041065#concept">
+      <mods:topic>Education, Higher</mods:topic>
+   </mods:subject>
+   <mods:subject authority="local">
+      <mods:topic>Politics, activism and advocacy</mods:topic>
+   </mods:subject>
+   <mods:subject authority="lcsh">
+      <mods:topic>Educational change</mods:topic>
+   </mods:subject>
+   <mods:subject authority="lcsh">
+      <mods:topic> Education--Political aspects</mods:topic>
+   </mods:subject>
+   <mods:subject authority="local">
+      <mods:topic>Student activism and protests</mods:topic>
+   </mods:subject>
+   <mods:subject authority="lcsh">
+      <mods:topic>Student movements</mods:topic>
+   </mods:subject>
+   <mods:subject authority="lcsh">
+      <mods:topic> Students--Political activity</mods:topic>
+   </mods:subject>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Latin American Posters Collection</mods:title>
+      </mods:titleInfo>
+      <mods:location>
+         <mods:url note="Digital Collection">http://pudl.princeton.edu/collections/pudl0025</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">NjP</mods:physicalLocation>
+      <mods:physicalLocation type="text">Princeton University Library. Latin American Ephemera Collections.</mods:physicalLocation>
+      <mods:url access="object in context" usage="primary display"/>
+   </mods:location>
+   <mods:accessCondition type="restrictionOnAccess">The collection is open for research use.</mods:accessCondition>
+   <mods:accessCondition type="useAndReproduction">No restrictions. Researchers are responsible for determining
+                any copyright questions.</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:recordIdentifier>http://diglib.princeton.edu/mdata/pudl0025/02/0541.mods</mods:recordIdentifier>
+   </mods:recordInfo>
+</mods:mods>
+</mets:xmlData>
+</mets:mdWrap>
+</mets:dmdSec>
+<mets:fileSec>
+<mets:fileGrp USE="thumbnail">
+<mets:file ID="z293t" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/02/0541/00000001.tif"/>
+</mets:file>
+</mets:fileGrp>
+<mets:fileGrp USE="masters">
+<mets:file CHECKSUM="719e0abc0852021cfd49bd1578d5b1d586197988" CHECKSUMTYPE="SHA-1" ID="lv0dn" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/02/0541/00000001.tif"/>
+</mets:file>
+</mets:fileGrp>
+</mets:fileSec>
+<mets:structMap TYPE="RelatedObjects">
+<mets:div DMDID="nskci ksbsy" ID="bqne9" LABEL="Default">
+<mets:div CONTENTIDS="pudl0025" TYPE="IsPartOf"/>
+<mets:div ID="aggregates" TYPE="OrderedList">
+<mets:div ID="vokrm" LABEL="recto" ORDER="1" TYPE="Static">
+<mets:fptr FILEID="lv0dn"/>
+</mets:div>
+</mets:div>
+</mets:div>
+</mets:structMap>
+</mets:mets>

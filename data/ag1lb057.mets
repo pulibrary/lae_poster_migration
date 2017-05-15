@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OBJID="ark:/88435/q524jn96t" TYPE="CompiledDigitalObject" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+<mets:metsHdr CREATEDATE="2017-05-13T14:59:30.928-04:00" LASTMODDATE="2017-05-13T14:59:30.928-04:00">
+<mets:metsDocumentID TYPE="PUDL">pudl0025/ag1lb057.mets</mets:metsDocumentID>
+</mets:metsHdr>
+<mets:dmdSec ID="htvuq">
+<mets:mdRef LOCTYPE="URL" MDTYPE="MARC" xlink:href=""/>
+</mets:dmdSec>
+<mets:dmdSec ID="lvar6">
+<mets:mdWrap MDTYPE="MODS">
+<mets:xmlData>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+   <mods:typeOfResource>still image</mods:typeOfResource>
+   <mods:titleInfo>
+      <mods:nonSort>El</mods:nonSort>
+      <mods:title>"diablito" espera pero lo engañaron</mods:title>
+   </mods:titleInfo>
+   <mods:name type="corporate">
+      <mods:namePart>Instituto Argentino de Seguridad</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:originInfo>
+      <mods:place>
+         <mods:placeTerm type="text">[Argentina]</mods:placeTerm>
+      </mods:place>
+      <mods:publisher>[s.n.]</mods:publisher>
+      <mods:dateIssued encoding="w3cdtf">[1946]</mods:dateIssued>
+   </mods:originInfo>
+   <mods:physicalDescription>
+      <mods:extent>47 × 32 cm.</mods:extent>
+   </mods:physicalDescription>
+   <mods:genre authority="aat" type="worktype">posters</mods:genre>
+   <mods:subject>
+      <mods:topic>Labor</mods:topic>
+      <mods:geographic>Argentina</mods:geographic>
+   </mods:subject>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Latin American Posters Collection</mods:title>
+      </mods:titleInfo>
+   <mods:location>
+<mods:url>http://pudl.princeton.edu/collections/pudl0025</mods:url>
+</mods:location>
+</mods:relatedItem>
+   <mods:identifier type="local">ag1lb057</mods:identifier>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">NjP</mods:physicalLocation>
+      <mods:physicalLocation type="text">Princeton University Library. Latin American Ephemera Collections.</mods:physicalLocation>
+      <mods:url access="object in context" usage="primary display"/>
+   </mods:location>
+   <mods:accessCondition type="restrictionOnAccess">The collection is open for research use.</mods:accessCondition>
+   <mods:accessCondition type="useAndReproduction">No restrictions. Researchers are responsible for determining
+      any copyright questions.</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:recordIdentifier>http://diglib.princeton.edu/mdata/pudl0025/ag1lb057.mods</mods:recordIdentifier>
+   </mods:recordInfo>
+</mods:mods>
+</mets:xmlData>
+</mets:mdWrap>
+</mets:dmdSec>
+<mets:fileSec>
+<mets:fileGrp USE="thumbnail">
+<mets:file ID="wy71m" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ag1lb057/00000001.tif"/>
+</mets:file>
+</mets:fileGrp>
+<mets:fileGrp USE="masters">
+<mets:file CHECKSUM="e49147a2318cd441f5a74f3dbc696010f20dd8f9" CHECKSUMTYPE="SHA-1" ID="buhbd" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ag1lb057/00000001.tif"/>
+</mets:file>
+<mets:file CHECKSUM="bc69d77b0e5517fc931babfa7d7e0a58c3ef6364" CHECKSUMTYPE="SHA-1" ID="aby6p" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ag1lb057/00000002.tif"/>
+</mets:file>
+</mets:fileGrp>
+</mets:fileSec>
+<mets:structMap TYPE="RelatedObjects">
+<mets:div DMDID="htvuq lvar6" ID="m7wo5" LABEL="Default">
+<mets:div CONTENTIDS="pudl0025" TYPE="IsPartOf"/>
+<mets:div ID="aggregates" TYPE="OrderedList">
+<mets:div ID="k25u7" LABEL="front" ORDER="1" TYPE="Static">
+<mets:fptr FILEID="buhbd"/>
+</mets:div>
+<mets:div ID="fp51m" LABEL="back" ORDER="2" TYPE="Static">
+<mets:fptr FILEID="aby6p"/>
+</mets:div>
+</mets:div>
+</mets:div>
+</mets:structMap>
+<mets:structMap TYPE="Physical">
+<mets:div DMDID="htvuq lvar6" ID="dnxl3" TYPE="Sheet">
+<mets:div ID="k7z29" LABEL="front" ORDER="1" TYPE="Side">
+<mets:fptr FILEID="buhbd"/>
+</mets:div>
+<mets:div ID="v6nvn" LABEL="back" ORDER="2" TYPE="Side">
+<mets:fptr FILEID="aby6p"/>
+</mets:div>
+</mets:div>
+</mets:structMap>
+</mets:mets>

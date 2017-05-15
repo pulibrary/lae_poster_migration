@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OBJID="ark:/88435/ng451h682" TYPE="CompiledDigitalObject" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+<mets:metsHdr CREATEDATE="2017-05-13T14:59:34.856-04:00" LASTMODDATE="2017-05-13T14:59:34.856-04:00">
+<mets:metsDocumentID TYPE="PUDL">pudl0025/ve1po013.mets</mets:metsDocumentID>
+</mets:metsHdr>
+<mets:dmdSec ID="cr1ye">
+<mets:mdRef LOCTYPE="URL" MDTYPE="MARC" xlink:href=""/>
+</mets:dmdSec>
+<mets:dmdSec ID="s5u4c">
+<mets:mdWrap MDTYPE="MODS">
+<mets:xmlData>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+   <mods:typeOfResource>still image</mods:typeOfResource>
+   <mods:titleInfo>
+      <mods:title>Cabrera Aguirre el alcalde para los Salias</mods:title>
+   </mods:titleInfo>
+   <mods:originInfo>
+      <mods:place>
+         <mods:placeTerm type="text">[Venezuela]</mods:placeTerm>
+      </mods:place>
+      <mods:publisher>[s.n.]</mods:publisher>
+      <mods:dateIssued>[n.d.]</mods:dateIssued>
+   </mods:originInfo>
+   <mods:physicalDescription>
+      <mods:extent>59 × 41 cm.</mods:extent>
+   </mods:physicalDescription>
+   <mods:genre authority="aat" type="worktype">posters</mods:genre>
+   <mods:subject>
+      <mods:geographic>Venezuela</mods:geographic>
+      <mods:topic>Politics and government</mods:topic>
+   </mods:subject>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Latin American Posters Collection</mods:title>
+      </mods:titleInfo>
+   <mods:location>
+<mods:url>http://pudl.princeton.edu/collections/pudl0025</mods:url>
+</mods:location>
+</mods:relatedItem>
+   <mods:identifier type="local">ve1po013</mods:identifier>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">NjP</mods:physicalLocation>
+      <mods:physicalLocation type="text">Princeton University Library. Latin American Ephemera Collections.</mods:physicalLocation>
+      <mods:url access="object in context" usage="primary display"/>
+   </mods:location>
+   <mods:accessCondition type="restrictionOnAccess">The collection is open for research use.</mods:accessCondition>
+   <mods:accessCondition type="useAndReproduction">No restrictions. Researchers are responsible for determining
+      any copyright questions.</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:recordIdentifier>http://diglib.princeton.edu/mdata/pudl0025/ve1po013.mods</mods:recordIdentifier>
+   </mods:recordInfo>
+</mods:mods>
+</mets:xmlData>
+</mets:mdWrap>
+</mets:dmdSec>
+<mets:fileSec>
+<mets:fileGrp USE="thumbnail">
+<mets:file ID="b9f0b" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po013/00000001.tif"/>
+</mets:file>
+</mets:fileGrp>
+<mets:fileGrp USE="masters">
+<mets:file CHECKSUM="afcd52ea58731fbd89acd2cdb5497bde70be72fb" CHECKSUMTYPE="SHA-1" ID="t3abc" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po013/00000001.tif"/>
+</mets:file>
+<mets:file CHECKSUM="92fc3a20eb7e57e799623b6c57fdca91eba87237" CHECKSUMTYPE="SHA-1" ID="gcvh7" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po013/00000002.tif"/>
+</mets:file>
+</mets:fileGrp>
+</mets:fileSec>
+<mets:structMap TYPE="RelatedObjects">
+<mets:div DMDID="cr1ye s5u4c" ID="z0ban" LABEL="Default">
+<mets:div CONTENTIDS="pudl0025" TYPE="IsPartOf"/>
+<mets:div ID="aggregates" TYPE="OrderedList">
+<mets:div ID="tqmaj" LABEL="front" ORDER="1" TYPE="Static">
+<mets:fptr FILEID="t3abc"/>
+</mets:div>
+<mets:div ID="brdiv" LABEL="back" ORDER="2" TYPE="Static">
+<mets:fptr FILEID="gcvh7"/>
+</mets:div>
+</mets:div>
+</mets:div>
+</mets:structMap>
+<mets:structMap TYPE="Physical">
+<mets:div DMDID="cr1ye s5u4c" ID="d3fxo" TYPE="Sheet">
+<mets:div ID="ywhhm" LABEL="front" ORDER="1" TYPE="Side">
+<mets:fptr FILEID="t3abc"/>
+</mets:div>
+<mets:div ID="grdf7" LABEL="back" ORDER="2" TYPE="Side">
+<mets:fptr FILEID="gcvh7"/>
+</mets:div>
+</mets:div>
+</mets:structMap>
+</mets:mets>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OBJID="ark:/88435/m326m1914" TYPE="CompiledDigitalObject" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+<mets:metsHdr CREATEDATE="2017-05-13T14:59:32.732-04:00" LASTMODDATE="2017-05-13T14:59:32.732-04:00">
+<mets:metsDocumentID TYPE="PUDL">pudl0025/bo1to003.mets</mets:metsDocumentID>
+</mets:metsHdr>
+<mets:dmdSec ID="g9g9x">
+<mets:mdRef LOCTYPE="URL" MDTYPE="MARC" xlink:href=""/>
+</mets:dmdSec>
+<mets:dmdSec ID="ycuae">
+<mets:mdWrap MDTYPE="MODS">
+<mets:xmlData>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+   <mods:typeOfResource>still image</mods:typeOfResource>
+   <mods:titleInfo>
+      <mods:title>Primer seminario taller sobre protección y difusión del patrimonio cultural…</mods:title>
+   </mods:titleInfo>
+   <mods:name type="corporate">
+      <mods:namePart>Honorable Alcadía Municipal de Oruro</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name type="corporate">
+      <mods:namePart>Viceminesterio de Cultura</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name type="corporate">
+      <mods:namePart>Imprenta La Moderna</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:originInfo>
+      <mods:place>
+         <mods:placeTerm type="text">[Bolivia]</mods:placeTerm>
+      </mods:place>
+      <mods:publisher>[s.n.]</mods:publisher>
+      <mods:dateIssued>[n.d.]</mods:dateIssued>
+   </mods:originInfo>
+   <mods:physicalDescription>
+      <mods:extent>44 × 34 cm.</mods:extent>
+   </mods:physicalDescription>
+   <mods:genre authority="aat" type="worktype">posters</mods:genre>
+   <mods:subject>
+      <mods:topic>Tourism</mods:topic>
+      <mods:geographic>Bolivia</mods:geographic>
+   </mods:subject>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Latin American Posters Collection</mods:title>
+      </mods:titleInfo>
+   <mods:location>
+<mods:url>http://pudl.princeton.edu/collections/pudl0025</mods:url>
+</mods:location>
+</mods:relatedItem>
+   <mods:identifier type="local">bo1to003</mods:identifier>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">NjP</mods:physicalLocation>
+      <mods:physicalLocation type="text">Princeton University Library. Latin American Ephemera Collections.</mods:physicalLocation>
+      <mods:url access="object in context" usage="primary display"/>
+   </mods:location>
+   <mods:accessCondition type="restrictionOnAccess">The collection is open for research use.</mods:accessCondition>
+   <mods:accessCondition type="useAndReproduction">No restrictions. Researchers are responsible for determining
+      any copyright questions.</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:recordIdentifier>http://diglib.princeton.edu/mdata/pudl0025/bo1to003.mods</mods:recordIdentifier>
+   </mods:recordInfo>
+</mods:mods>
+</mets:xmlData>
+</mets:mdWrap>
+</mets:dmdSec>
+<mets:fileSec>
+<mets:fileGrp USE="thumbnail">
+<mets:file ID="clnea" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1to003/00000001.tif"/>
+</mets:file>
+</mets:fileGrp>
+<mets:fileGrp USE="masters">
+<mets:file CHECKSUM="25c473a6aefa8ede20e56132b911bfc4415e8d6f" CHECKSUMTYPE="SHA-1" ID="ii474" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1to003/00000001.tif"/>
+</mets:file>
+<mets:file CHECKSUM="7fadb43a2940cddff42ef314d902fa4ff7ca8ae" CHECKSUMTYPE="SHA-1" ID="lp398" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1to003/00000002.tif"/>
+</mets:file>
+</mets:fileGrp>
+</mets:fileSec>
+<mets:structMap TYPE="RelatedObjects">
+<mets:div DMDID="g9g9x ycuae" ID="a5ck0" LABEL="Default">
+<mets:div CONTENTIDS="pudl0025" TYPE="IsPartOf"/>
+<mets:div ID="aggregates" TYPE="OrderedList">
+<mets:div ID="fx3db" LABEL="front" ORDER="1" TYPE="Static">
+<mets:fptr FILEID="ii474"/>
+</mets:div>
+<mets:div ID="qyg5o" LABEL="back" ORDER="2" TYPE="Static">
+<mets:fptr FILEID="lp398"/>
+</mets:div>
+</mets:div>
+</mets:div>
+</mets:structMap>
+<mets:structMap TYPE="Physical">
+<mets:div DMDID="g9g9x ycuae" ID="ysead" TYPE="Sheet">
+<mets:div ID="s885k" LABEL="front" ORDER="1" TYPE="Side">
+<mets:fptr FILEID="ii474"/>
+</mets:div>
+<mets:div ID="fyof3" LABEL="back" ORDER="2" TYPE="Side">
+<mets:fptr FILEID="lp398"/>
+</mets:div>
+</mets:div>
+</mets:structMap>
+</mets:mets>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OBJID="ark:/88435/1831cm73f" TYPE="CompiledDigitalObject" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+<mets:metsHdr CREATEDATE="2017-05-15T09:19:44.948-04:00" LASTMODDATE="2017-05-15T09:19:44.948-04:00">
+<mets:metsDocumentID TYPE="PUDL">pudl0025/02/1174.mets</mets:metsDocumentID>
+</mets:metsHdr>
+<mets:dmdSec ID="pus9b">
+<mets:mdRef LOCTYPE="URL" MDTYPE="MARC" xlink:href=""/>
+</mets:dmdSec>
+<mets:dmdSec ID="fldqx">
+<mets:mdWrap MDTYPE="MODS">
+<mets:xmlData>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3             http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <mods:titleInfo>
+      <mods:title>Votemos por una alternativa de Izquierda</mods:title>
+   </mods:titleInfo>
+   <mods:name authority="naf" type="corporate">
+      <mods:namePart>Partido Obrero (Argentina)</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name type="corporate">
+      <mods:namePart>Unión de Juventudes por el Socialismo</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:typeOfResource collection="yes" manuscript="yes">still image</mods:typeOfResource>
+   <mods:genre authority="aat">Posters</mods:genre>
+   <mods:originInfo>
+      <mods:place>
+         <mods:placeTerm type="text">Argentina</mods:placeTerm>
+      </mods:place>
+      <mods:dateIssued encoding="w3cdtf" keyDate="yes">[2007]</mods:dateIssued>
+   </mods:originInfo>
+   <mods:language>
+      <mods:languageTerm authority="iso639-2b" type="code">spa</mods:languageTerm>
+   </mods:language>
+   <mods:physicalDescription>
+      <mods:extent>75 x 56 cm.</mods:extent>
+   </mods:physicalDescription>
+   <mods:subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/sh85104371#concept">
+      <mods:topic>Political parties</mods:topic>
+   </mods:subject>
+   <mods:subject authority="local">
+      <mods:topic>Politics, activism and advocacy</mods:topic>
+   </mods:subject>
+   <mods:subject authority="lcsh">
+      <mods:topic>Politics and government</mods:topic>
+      <mods:topic>Citizen participation</mods:topic>
+   </mods:subject>
+   <mods:subject authority="local">
+      <mods:topic>Social policy and policy implementation</mods:topic>
+   </mods:subject>
+   <mods:subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/sh85123985#concept">
+      <mods:topic>Social policy</mods:topic>
+   </mods:subject>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Latin American Posters Collection</mods:title>
+      </mods:titleInfo>
+      <mods:location>
+         <mods:url note="Digital Collection">http://pudl.princeton.edu/collections/pudl0025</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">NjP</mods:physicalLocation>
+      <mods:physicalLocation type="text">Princeton University Library. Latin American Ephemera Collections.</mods:physicalLocation>
+      <mods:url access="object in context" usage="primary display"/>
+   </mods:location>
+   <mods:accessCondition type="restrictionOnAccess">The collection is open for research use.</mods:accessCondition>
+   <mods:accessCondition type="useAndReproduction">No restrictions. Researchers are responsible for determining
+                any copyright questions.</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:recordIdentifier>http://diglib.princeton.edu/mdata/pudl0025/02/1174.mods</mods:recordIdentifier>
+   </mods:recordInfo>
+</mods:mods>
+</mets:xmlData>
+</mets:mdWrap>
+</mets:dmdSec>
+<mets:fileSec>
+<mets:fileGrp USE="thumbnail">
+<mets:file ID="nd564" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/02/1174/00000001.tif"/>
+</mets:file>
+</mets:fileGrp>
+<mets:fileGrp USE="masters">
+<mets:file CHECKSUM="55d3ae958391c53f8a9101315f4c753013f4b4b0" CHECKSUMTYPE="SHA-1" ID="pk0m6" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/02/1174/00000001.tif"/>
+</mets:file>
+</mets:fileGrp>
+</mets:fileSec>
+<mets:structMap TYPE="RelatedObjects">
+<mets:div DMDID="pus9b fldqx" ID="xwbuo" LABEL="Default">
+<mets:div CONTENTIDS="pudl0025" TYPE="IsPartOf"/>
+<mets:div ID="aggregates" TYPE="OrderedList">
+<mets:div ID="aekct" LABEL="recto" ORDER="1" TYPE="Static">
+<mets:fptr FILEID="pk0m6"/>
+</mets:div>
+</mets:div>
+</mets:div>
+</mets:structMap>
+</mets:mets>

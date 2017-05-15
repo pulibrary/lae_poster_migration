@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OBJID="ark:/88435/n870zt37r" TYPE="CompiledDigitalObject" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+<mets:metsHdr CREATEDATE="2017-05-15T09:19:43.632-04:00" LASTMODDATE="2017-05-15T09:19:43.632-04:00">
+<mets:metsDocumentID TYPE="PUDL">pudl0025/02/0784.mets</mets:metsDocumentID>
+</mets:metsHdr>
+<mets:dmdSec ID="wdssf">
+<mets:mdRef LOCTYPE="URL" MDTYPE="MARC" xlink:href=""/>
+</mets:dmdSec>
+<mets:dmdSec ID="od01p">
+<mets:mdWrap MDTYPE="MODS">
+<mets:xmlData>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3             http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <mods:titleInfo>
+      <mods:title>El gobierno el FMI recortan</mods:title>
+   </mods:titleInfo>
+   <mods:name type="corporate">
+      <mods:namePart>Corriente Estudiantil Popular Antiimperialista</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name type="corporate">
+      <mods:namePart>La Corriente</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:typeOfResource collection="yes" manuscript="yes">still image</mods:typeOfResource>
+   <mods:genre authority="aat">Posters</mods:genre>
+   <mods:originInfo>
+      <mods:place>
+         <mods:placeTerm type="text">Argentina</mods:placeTerm>
+      </mods:place>
+      <mods:dateIssued encoding="w3cdtf" keyDate="yes">[2001]</mods:dateIssued>
+   </mods:originInfo>
+   <mods:language>
+      <mods:languageTerm authority="iso639-2b" type="code">spa</mods:languageTerm>
+   </mods:language>
+   <mods:physicalDescription>
+      <mods:extent>83 x 58 cm.</mods:extent>
+   </mods:physicalDescription>
+   <mods:subject authority="local">
+      <mods:topic>Social policy and policy implementation</mods:topic>
+   </mods:subject>
+   <mods:subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/sh85123985#concept">
+      <mods:topic>Social policy</mods:topic>
+   </mods:subject>
+   <mods:subject authority="local">
+      <mods:topic>Politics, activism and advocacy</mods:topic>
+   </mods:subject>
+   <mods:subject authority="lcsh">
+      <mods:topic>Economic policy--citizen participation</mods:topic>
+   </mods:subject>
+   <mods:subject authority="lcsh">
+      <mods:topic> Social policy--citizen participation</mods:topic>
+   </mods:subject>
+   <mods:subject authority="local">
+      <mods:topic>Consumer rights</mods:topic>
+   </mods:subject>
+   <mods:subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/sh85031486#concept">
+      <mods:topic>Consumer protection</mods:topic>
+   </mods:subject>
+   <mods:subject authority="local">
+      <mods:topic>Student activism and protests</mods:topic>
+   </mods:subject>
+   <mods:subject authority="lcsh">
+      <mods:topic>Student movements</mods:topic>
+   </mods:subject>
+   <mods:subject authority="lcsh">
+      <mods:topic> Students--Political activity</mods:topic>
+   </mods:subject>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Latin American Posters Collection</mods:title>
+      </mods:titleInfo>
+      <mods:location>
+         <mods:url note="Digital Collection">http://pudl.princeton.edu/collections/pudl0025</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">NjP</mods:physicalLocation>
+      <mods:physicalLocation type="text">Princeton University Library. Latin American Ephemera Collections.</mods:physicalLocation>
+      <mods:url access="object in context" usage="primary display"/>
+   </mods:location>
+   <mods:accessCondition type="restrictionOnAccess">The collection is open for research use.</mods:accessCondition>
+   <mods:accessCondition type="useAndReproduction">No restrictions. Researchers are responsible for determining
+                any copyright questions.</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:recordIdentifier>http://diglib.princeton.edu/mdata/pudl0025/02/0784.mods</mods:recordIdentifier>
+   </mods:recordInfo>
+</mods:mods>
+</mets:xmlData>
+</mets:mdWrap>
+</mets:dmdSec>
+<mets:fileSec>
+<mets:fileGrp USE="thumbnail">
+<mets:file ID="xr0ks" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/02/0784/00000001.tif"/>
+</mets:file>
+</mets:fileGrp>
+<mets:fileGrp USE="masters">
+<mets:file CHECKSUM="c50b93c50e3be475302ac68294850122631b6cc9" CHECKSUMTYPE="SHA-1" ID="g8soj" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/02/0784/00000001.tif"/>
+</mets:file>
+<mets:file CHECKSUM="84fbbcbd3f854b1a3fe6c5ea97143fb5717634bf" CHECKSUMTYPE="SHA-1" ID="yr10g" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/02/0784/00000002.tif"/>
+</mets:file>
+</mets:fileGrp>
+</mets:fileSec>
+<mets:structMap TYPE="RelatedObjects">
+<mets:div DMDID="wdssf od01p" ID="zddho" LABEL="Default">
+<mets:div CONTENTIDS="pudl0025" TYPE="IsPartOf"/>
+<mets:div ID="aggregates" TYPE="OrderedList">
+<mets:div ID="djtll" LABEL="recto" ORDER="1" TYPE="Static">
+<mets:fptr FILEID="g8soj"/>
+</mets:div>
+<mets:div ID="t6i2d" LABEL="verso" ORDER="2" TYPE="Static">
+<mets:fptr FILEID="yr10g"/>
+</mets:div>
+</mets:div>
+</mets:div>
+</mets:structMap>
+</mets:mets>

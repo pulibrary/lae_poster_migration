@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OBJID="ark:/88435/ft848q81x" TYPE="CompiledDigitalObject" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+<mets:metsHdr CREATEDATE="2017-05-13T14:59:34.973-04:00" LASTMODDATE="2017-05-13T14:59:34.973-04:00">
+<mets:metsDocumentID TYPE="PUDL">pudl0025/ve1po065.mets</mets:metsDocumentID>
+</mets:metsHdr>
+<mets:dmdSec ID="w5qen">
+<mets:mdRef LOCTYPE="URL" MDTYPE="MARC" xlink:href=""/>
+</mets:dmdSec>
+<mets:dmdSec ID="e2mgk">
+<mets:mdWrap MDTYPE="MODS">
+<mets:xmlData>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+   <mods:typeOfResource>still image</mods:typeOfResource>
+   <mods:titleInfo>
+      <mods:title>Adestramiento de miembros de mesas electorales</mods:title>
+   </mods:titleInfo>
+   <mods:name type="corporate">
+      <mods:namePart>CNE</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:originInfo>
+      <mods:place>
+         <mods:placeTerm type="text">[Venezuela]</mods:placeTerm>
+      </mods:place>
+      <mods:publisher>[s.n.]</mods:publisher>
+      <mods:dateIssued>[n.d.]</mods:dateIssued>
+   </mods:originInfo>
+   <mods:physicalDescription>
+      <mods:extent>64 × 47 cm.</mods:extent>
+   </mods:physicalDescription>
+   <mods:genre authority="aat" type="worktype">posters</mods:genre>
+   <mods:subject>
+      <mods:geographic>Venezuela</mods:geographic>
+      <mods:topic>Politics and government</mods:topic>
+   </mods:subject>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Latin American Posters Collection</mods:title>
+      </mods:titleInfo>
+   <mods:location>
+<mods:url>http://pudl.princeton.edu/collections/pudl0025</mods:url>
+</mods:location>
+</mods:relatedItem>
+   <mods:identifier type="local">ve1po065</mods:identifier>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">NjP</mods:physicalLocation>
+      <mods:physicalLocation type="text">Princeton University Library. Latin American Ephemera Collections.</mods:physicalLocation>
+      <mods:url access="object in context" usage="primary display"/>
+   </mods:location>
+   <mods:accessCondition type="restrictionOnAccess">The collection is open for research use.</mods:accessCondition>
+   <mods:accessCondition type="useAndReproduction">No restrictions. Researchers are responsible for determining
+      any copyright questions.</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:recordIdentifier>http://diglib.princeton.edu/mdata/pudl0025/ve1po065.mods</mods:recordIdentifier>
+   </mods:recordInfo>
+</mods:mods>
+</mets:xmlData>
+</mets:mdWrap>
+</mets:dmdSec>
+<mets:fileSec>
+<mets:fileGrp USE="thumbnail">
+<mets:file ID="rrj8w" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000001.tif"/>
+</mets:file>
+</mets:fileGrp>
+<mets:fileGrp USE="masters">
+<mets:file CHECKSUM="50e3b6174e6e506a35afe011587930f9c1022dd1" CHECKSUMTYPE="SHA-1" ID="asdiv" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000001.tif"/>
+</mets:file>
+<mets:file CHECKSUM="b70b8a34678db2c48bdf2c1a0edd9a5bf31e3a13" CHECKSUMTYPE="SHA-1" ID="u9c4v" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000002.tif"/>
+</mets:file>
+<mets:file CHECKSUM="e1897bc0880825553459b43920e0e4adabe92c75" CHECKSUMTYPE="SHA-1" ID="qy5je" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000003.tif"/>
+</mets:file>
+<mets:file CHECKSUM="de9bbd761a1a23a715be6a6c85605584c4620cd2" CHECKSUMTYPE="SHA-1" ID="t4685" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000004.tif"/>
+</mets:file>
+<mets:file CHECKSUM="55c1c51f2d5ccab1624cce368c2f26eb2fccbd00" CHECKSUMTYPE="SHA-1" ID="wodzu" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000005.tif"/>
+</mets:file>
+<mets:file CHECKSUM="3c3ac83e3b636ae00fce963494d71cffb869a829" CHECKSUMTYPE="SHA-1" ID="jhx3w" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000006.tif"/>
+</mets:file>
+<mets:file CHECKSUM="2e52adbf33d2f4e39aed1fa04882fddab3b12fea" CHECKSUMTYPE="SHA-1" ID="hv6sz" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000007.tif"/>
+</mets:file>
+<mets:file CHECKSUM="a92e5c5389f40fc645489983191994f017b3fedb" CHECKSUMTYPE="SHA-1" ID="zevmz" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000008.tif"/>
+</mets:file>
+<mets:file CHECKSUM="10099af8a3b23492a11ceb93078c24e485dd806" CHECKSUMTYPE="SHA-1" ID="dyvlp" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000009.tif"/>
+</mets:file>
+<mets:file CHECKSUM="f8bb5251211446712ff451456587b668cd3dcfa4" CHECKSUMTYPE="SHA-1" ID="vscbd" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000010.tif"/>
+</mets:file>
+<mets:file CHECKSUM="9c0efe7512c6d766852fd6c65c2ba98940a6c6e4" CHECKSUMTYPE="SHA-1" ID="eqlpe" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000011.tif"/>
+</mets:file>
+<mets:file CHECKSUM="99505bbb776d6d542f60112bf573cc1a623c4e47" CHECKSUMTYPE="SHA-1" ID="ncq4i" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000012.tif"/>
+</mets:file>
+<mets:file CHECKSUM="d761d5a5af1cbccf5bf9092749714c27dcacceb2" CHECKSUMTYPE="SHA-1" ID="u8msn" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000013.tif"/>
+</mets:file>
+<mets:file CHECKSUM="29695e613bfe522d95c58930fe2525c91833a55e" CHECKSUMTYPE="SHA-1" ID="kattj" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000014.tif"/>
+</mets:file>
+<mets:file CHECKSUM="fe40b349ef061964513f00b755c705dc8eabb2da" CHECKSUMTYPE="SHA-1" ID="f2h5p" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000015.tif"/>
+</mets:file>
+<mets:file CHECKSUM="685d0979fae6c909bd63c3ff853ca181da7b2e25" CHECKSUMTYPE="SHA-1" ID="hq505" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000016.tif"/>
+</mets:file>
+<mets:file CHECKSUM="a1b885eaf9adf2854c9852dd743278eb8bab5d" CHECKSUMTYPE="SHA-1" ID="jsqs6" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000017.tif"/>
+</mets:file>
+<mets:file CHECKSUM="b4797b39e23e309dc6d97f91866b8f55aaaab746" CHECKSUMTYPE="SHA-1" ID="m7n9q" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000018.tif"/>
+</mets:file>
+<mets:file CHECKSUM="af881d9c73cde65efa2b8ec13bf83c10f4729083" CHECKSUMTYPE="SHA-1" ID="wcj80" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000019.tif"/>
+</mets:file>
+<mets:file CHECKSUM="7965e52f1b79e8d1bcb2a4bf82e307c38700c169" CHECKSUMTYPE="SHA-1" ID="crj3j" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000020.tif"/>
+</mets:file>
+<mets:file CHECKSUM="449cf9c97bd6971a8b4584ad24aa34c65aa9dd8b" CHECKSUMTYPE="SHA-1" ID="j9npm" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000021.tif"/>
+</mets:file>
+<mets:file CHECKSUM="a73b6348751ecf7fb8f8eb28e7075621409afa7" CHECKSUMTYPE="SHA-1" ID="f13z6" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000022.tif"/>
+</mets:file>
+<mets:file CHECKSUM="8d86f18a75142d4b937adac54d50e54cdc243528" CHECKSUMTYPE="SHA-1" ID="moarg" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000023.tif"/>
+</mets:file>
+<mets:file CHECKSUM="9ba827f37e11ca4487dbd0f614409e8ccfeb6e22" CHECKSUMTYPE="SHA-1" ID="o99gk" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000024.tif"/>
+</mets:file>
+<mets:file CHECKSUM="d5cc733e4d3a2dc306dc2216b37cbb40b1048076" CHECKSUMTYPE="SHA-1" ID="pewhq" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000025.tif"/>
+</mets:file>
+<mets:file CHECKSUM="17ae704166f9512cc500212a02d5c20a1c2e16f1" CHECKSUMTYPE="SHA-1" ID="gqece" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000026.tif"/>
+</mets:file>
+<mets:file CHECKSUM="81dcc84761f1d83e8463788f756ccaa72946b64c" CHECKSUMTYPE="SHA-1" ID="z3wq6" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000027.tif"/>
+</mets:file>
+<mets:file CHECKSUM="43e64c634fe04fd1fba9bc9307352c5077bddb33" CHECKSUMTYPE="SHA-1" ID="xfsge" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/ve1po065/00000028.tif"/>
+</mets:file>
+</mets:fileGrp>
+</mets:fileSec>
+<mets:structMap TYPE="RelatedObjects">
+<mets:div DMDID="w5qen e2mgk" ID="nxuvh" LABEL="Default">
+<mets:div CONTENTIDS="pudl0025" TYPE="IsPartOf"/>
+<mets:div ID="aggregates" TYPE="OrderedList">
+<mets:div ID="ln7vw" LABEL="cover" ORDER="1" TYPE="Static">
+<mets:fptr FILEID="asdiv"/>
+</mets:div>
+<mets:div ID="rd8gi" LABEL="page01" ORDER="2" TYPE="Static">
+<mets:fptr FILEID="u9c4v"/>
+</mets:div>
+<mets:div ID="qcvqv" LABEL="page02" ORDER="3" TYPE="Static">
+<mets:fptr FILEID="qy5je"/>
+</mets:div>
+<mets:div ID="zom23" LABEL="page03" ORDER="4" TYPE="Static">
+<mets:fptr FILEID="t4685"/>
+</mets:div>
+<mets:div ID="ewh6v" LABEL="page04" ORDER="5" TYPE="Static">
+<mets:fptr FILEID="wodzu"/>
+</mets:div>
+<mets:div ID="lnt0z" LABEL="page05" ORDER="6" TYPE="Static">
+<mets:fptr FILEID="jhx3w"/>
+</mets:div>
+<mets:div ID="onnkg" LABEL="page06" ORDER="7" TYPE="Static">
+<mets:fptr FILEID="hv6sz"/>
+</mets:div>
+<mets:div ID="jjmcv" LABEL="page07" ORDER="8" TYPE="Static">
+<mets:fptr FILEID="zevmz"/>
+</mets:div>
+<mets:div ID="uot3s" LABEL="page08" ORDER="9" TYPE="Static">
+<mets:fptr FILEID="dyvlp"/>
+</mets:div>
+<mets:div ID="cl6sg" LABEL="page09" ORDER="10" TYPE="Static">
+<mets:fptr FILEID="vscbd"/>
+</mets:div>
+<mets:div ID="nl3j4" LABEL="page10" ORDER="11" TYPE="Static">
+<mets:fptr FILEID="eqlpe"/>
+</mets:div>
+<mets:div ID="lctwo" LABEL="page11" ORDER="12" TYPE="Static">
+<mets:fptr FILEID="ncq4i"/>
+</mets:div>
+<mets:div ID="ywhlf" LABEL="page12" ORDER="13" TYPE="Static">
+<mets:fptr FILEID="u8msn"/>
+</mets:div>
+<mets:div ID="kbp69" LABEL="page13" ORDER="14" TYPE="Static">
+<mets:fptr FILEID="kattj"/>
+</mets:div>
+<mets:div ID="do1ra" LABEL="page14" ORDER="15" TYPE="Static">
+<mets:fptr FILEID="f2h5p"/>
+</mets:div>
+<mets:div ID="md1wj" LABEL="page15" ORDER="16" TYPE="Static">
+<mets:fptr FILEID="hq505"/>
+</mets:div>
+<mets:div ID="iuw12" LABEL="page16" ORDER="17" TYPE="Static">
+<mets:fptr FILEID="jsqs6"/>
+</mets:div>
+<mets:div ID="ceow0" LABEL="page17" ORDER="18" TYPE="Static">
+<mets:fptr FILEID="m7n9q"/>
+</mets:div>
+<mets:div ID="k7af2" LABEL="page18" ORDER="19" TYPE="Static">
+<mets:fptr FILEID="wcj80"/>
+</mets:div>
+<mets:div ID="wgzw0" LABEL="page19" ORDER="20" TYPE="Static">
+<mets:fptr FILEID="crj3j"/>
+</mets:div>
+<mets:div ID="rvo1t" LABEL="page20" ORDER="21" TYPE="Static">
+<mets:fptr FILEID="j9npm"/>
+</mets:div>
+<mets:div ID="bcopj" LABEL="page21" ORDER="22" TYPE="Static">
+<mets:fptr FILEID="f13z6"/>
+</mets:div>
+<mets:div ID="ksfdz" LABEL="page22" ORDER="23" TYPE="Static">
+<mets:fptr FILEID="moarg"/>
+</mets:div>
+<mets:div ID="zbqg3" LABEL="page23" ORDER="24" TYPE="Static">
+<mets:fptr FILEID="o99gk"/>
+</mets:div>
+<mets:div ID="x2nc9" LABEL="page24" ORDER="25" TYPE="Static">
+<mets:fptr FILEID="pewhq"/>
+</mets:div>
+<mets:div ID="gbali" LABEL="page25" ORDER="26" TYPE="Static">
+<mets:fptr FILEID="gqece"/>
+</mets:div>
+<mets:div ID="ibj9r" LABEL="page26" ORDER="27" TYPE="Static">
+<mets:fptr FILEID="z3wq6"/>
+</mets:div>
+<mets:div ID="erv05" LABEL="page27" ORDER="28" TYPE="Static">
+<mets:fptr FILEID="xfsge"/>
+</mets:div>
+</mets:div>
+</mets:div>
+</mets:structMap>
+<mets:structMap TYPE="Mixed">
+<mets:div DMDID="w5qen e2mgk" ID="gmwqy" LABEL="Adestramiento de miembros de mesas electorales" TYPE="FlipChart">
+<mets:div ID="u8t3i" LABEL="cover" ORDER="1" TYPE="Page">
+<mets:fptr FILEID="asdiv"/>
+</mets:div>
+<mets:div ID="yegc8" LABEL="[p. 1]" ORDER="2" TYPE="Page">
+<mets:fptr FILEID="u9c4v"/>
+</mets:div>
+<mets:div ID="lsjjk" LABEL="[p. 2]" ORDER="3" TYPE="Page">
+<mets:fptr FILEID="qy5je"/>
+</mets:div>
+<mets:div ID="dt15j" LABEL="[p. 3]" ORDER="4" TYPE="Page">
+<mets:fptr FILEID="t4685"/>
+</mets:div>
+<mets:div ID="mwfbh" LABEL="[p. 4]" ORDER="5" TYPE="Page">
+<mets:fptr FILEID="wodzu"/>
+</mets:div>
+<mets:div ID="f84ld" LABEL="[p. 5]" ORDER="6" TYPE="Page">
+<mets:fptr FILEID="jhx3w"/>
+</mets:div>
+<mets:div ID="qs4i8" LABEL="[p. 6]" ORDER="7" TYPE="Page">
+<mets:fptr FILEID="hv6sz"/>
+</mets:div>
+<mets:div ID="zwtgi" LABEL="[p. 7]" ORDER="8" TYPE="Page">
+<mets:fptr FILEID="zevmz"/>
+</mets:div>
+<mets:div ID="ulmg9" LABEL="[p. 8]" ORDER="9" TYPE="Page">
+<mets:fptr FILEID="dyvlp"/>
+</mets:div>
+<mets:div ID="bpwv0" LABEL="[p. 9]" ORDER="10" TYPE="Page">
+<mets:fptr FILEID="vscbd"/>
+</mets:div>
+<mets:div ID="s026f" LABEL="[p. 10]" ORDER="11" TYPE="Page">
+<mets:fptr FILEID="eqlpe"/>
+</mets:div>
+<mets:div ID="y286e" LABEL="[p. 11]" ORDER="12" TYPE="Page">
+<mets:fptr FILEID="ncq4i"/>
+</mets:div>
+<mets:div ID="hxl9b" LABEL="[p. 12]" ORDER="13" TYPE="Page">
+<mets:fptr FILEID="u8msn"/>
+</mets:div>
+<mets:div ID="qs66p" LABEL="[p. 13]" ORDER="14" TYPE="Page">
+<mets:fptr FILEID="kattj"/>
+</mets:div>
+<mets:div ID="w7ur6" LABEL="[p. 14]" ORDER="15" TYPE="Page">
+<mets:fptr FILEID="f2h5p"/>
+</mets:div>
+<mets:div ID="pm4qd" LABEL="[p. 15]" ORDER="16" TYPE="Page">
+<mets:fptr FILEID="hq505"/>
+</mets:div>
+<mets:div ID="llyq7" LABEL="[p. 16]" ORDER="17" TYPE="Page">
+<mets:fptr FILEID="jsqs6"/>
+</mets:div>
+<mets:div ID="agmim" LABEL="[p. 17]" ORDER="18" TYPE="Page">
+<mets:fptr FILEID="m7n9q"/>
+</mets:div>
+<mets:div ID="e9e8k" LABEL="[p. 18]" ORDER="19" TYPE="Page">
+<mets:fptr FILEID="wcj80"/>
+</mets:div>
+<mets:div ID="rewtc" LABEL="[p. 19]" ORDER="20" TYPE="Page">
+<mets:fptr FILEID="crj3j"/>
+</mets:div>
+<mets:div ID="ndows" LABEL="[p. 20]" ORDER="21" TYPE="Page">
+<mets:fptr FILEID="j9npm"/>
+</mets:div>
+<mets:div ID="xrl44" LABEL="[p. 21]" ORDER="22" TYPE="Page">
+<mets:fptr FILEID="f13z6"/>
+</mets:div>
+<mets:div ID="srubl" LABEL="[p. 22]" ORDER="23" TYPE="Page">
+<mets:fptr FILEID="moarg"/>
+</mets:div>
+<mets:div ID="hxcbp" LABEL="[p. 23]" ORDER="24" TYPE="Page">
+<mets:fptr FILEID="o99gk"/>
+</mets:div>
+<mets:div ID="imazs" LABEL="[p. 24]" ORDER="25" TYPE="Page">
+<mets:fptr FILEID="pewhq"/>
+</mets:div>
+<mets:div ID="a5am1" LABEL="[p. 25]" ORDER="26" TYPE="Page">
+<mets:fptr FILEID="gqece"/>
+</mets:div>
+<mets:div ID="x4vut" LABEL="[p. 26]" ORDER="27" TYPE="Page">
+<mets:fptr FILEID="z3wq6"/>
+</mets:div>
+<mets:div ID="f38u8" LABEL="[p. 27]" ORDER="28" TYPE="Page">
+<mets:fptr FILEID="xfsge"/>
+</mets:div>
+</mets:div>
+</mets:structMap>
+</mets:mets>

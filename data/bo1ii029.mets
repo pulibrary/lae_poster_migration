@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OBJID="ark:/88435/fn106z13z" TYPE="CompiledDigitalObject" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+<mets:metsHdr CREATEDATE="2017-05-13T14:59:32.339-04:00" LASTMODDATE="2017-05-13T14:59:32.339-04:00">
+<mets:metsDocumentID TYPE="PUDL">pudl0025/bo1ii029.mets</mets:metsDocumentID>
+</mets:metsHdr>
+<mets:dmdSec ID="ogm9z">
+<mets:mdRef LOCTYPE="URL" MDTYPE="MARC" xlink:href=""/>
+</mets:dmdSec>
+<mets:dmdSec ID="a2738">
+<mets:mdWrap MDTYPE="MODS">
+<mets:xmlData>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+   <mods:typeOfResource>still image</mods:typeOfResource>
+   <mods:titleInfo>
+      <mods:title>2004 Calendar</mods:title>
+   </mods:titleInfo>
+   <mods:name type="corporate">
+      <mods:namePart>Agruco</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name type="corporate">
+      <mods:namePart>UMSS</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name type="corporate">
+      <mods:namePart>CIGAC</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:originInfo>
+      <mods:place>
+         <mods:placeTerm type="text">[Bolivia]</mods:placeTerm>
+      </mods:place>
+      <mods:publisher>[s.n.]</mods:publisher>
+      <mods:dateIssued encoding="w3cdtf">2006</mods:dateIssued>
+   </mods:originInfo>
+   <mods:physicalDescription>
+      <mods:extent>52 × 37 cm.</mods:extent>
+   </mods:physicalDescription>
+   <mods:genre authority="aat" type="worktype">posters</mods:genre>
+   <mods:subject>
+      <mods:topic>Indigenous peoples</mods:topic>
+      <mods:geographic>Bolivia</mods:geographic>
+   </mods:subject>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Latin American Posters Collection</mods:title>
+      </mods:titleInfo>
+   <mods:location>
+<mods:url>http://pudl.princeton.edu/collections/pudl0025</mods:url>
+</mods:location>
+</mods:relatedItem>
+   <mods:identifier type="local">bo1ii029</mods:identifier>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">NjP</mods:physicalLocation>
+      <mods:physicalLocation type="text">Princeton University Library. Latin American Ephemera Collections.</mods:physicalLocation>
+      <mods:url access="object in context" usage="primary display"/>
+   </mods:location>
+   <mods:accessCondition type="restrictionOnAccess">The collection is open for research use.</mods:accessCondition>
+   <mods:accessCondition type="useAndReproduction">No restrictions. Researchers are responsible for determining
+      any copyright questions.</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:recordIdentifier>http://diglib.princeton.edu/mdata/pudl0025/bo1ii029.mods</mods:recordIdentifier>
+   </mods:recordInfo>
+</mods:mods>
+</mets:xmlData>
+</mets:mdWrap>
+</mets:dmdSec>
+<mets:fileSec>
+<mets:fileGrp USE="thumbnail">
+<mets:file ID="h1mzq" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii029/00000001.tif"/>
+</mets:file>
+</mets:fileGrp>
+<mets:fileGrp USE="masters">
+<mets:file CHECKSUM="5eebdd0b2203a94e622c9dc29255f5632c97fe73" CHECKSUMTYPE="SHA-1" ID="ky97w" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii029/00000001.tif"/>
+</mets:file>
+<mets:file CHECKSUM="5e764675595c25e5f602d9caf31e5c8ef2307f79" CHECKSUMTYPE="SHA-1" ID="lted3" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii029/00000002.tif"/>
+</mets:file>
+<mets:file CHECKSUM="32bde0b09410069cb0ba2c82f7a1c67cbb989ece" CHECKSUMTYPE="SHA-1" ID="o4mzw" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii029/00000003.tif"/>
+</mets:file>
+<mets:file CHECKSUM="b1ae291a56772ea6ad113c73d6cff0a397c48618" CHECKSUMTYPE="SHA-1" ID="a7gkl" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii029/00000004.tif"/>
+</mets:file>
+<mets:file CHECKSUM="904e4e37e9d45bdddcef854014e32ce58214ff56" CHECKSUMTYPE="SHA-1" ID="rug4p" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii029/00000005.tif"/>
+</mets:file>
+<mets:file CHECKSUM="d8fed3a1be3d2aa5b9b9834fe09bc91749fbb63a" CHECKSUMTYPE="SHA-1" ID="nd2om" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii029/00000006.tif"/>
+</mets:file>
+<mets:file CHECKSUM="a9906a2b1619f504a3ca5afa91f3810591a5601b" CHECKSUMTYPE="SHA-1" ID="gqsth" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii029/00000007.tif"/>
+</mets:file>
+<mets:file CHECKSUM="c54ef5aa5ca2408bc02786660dae57fa581cf434" CHECKSUMTYPE="SHA-1" ID="u44xh" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii029/00000008.tif"/>
+</mets:file>
+<mets:file CHECKSUM="ea9a95f381cea9471b004db650a266611b8209ba" CHECKSUMTYPE="SHA-1" ID="r0z6i" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii029/00000009.tif"/>
+</mets:file>
+<mets:file CHECKSUM="28a079fe690fbd3781563ae5bf3e0b009da0ae88" CHECKSUMTYPE="SHA-1" ID="pmv01" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii029/00000010.tif"/>
+</mets:file>
+<mets:file CHECKSUM="f5ab37023229f97306546136774d0bed6045c99c" CHECKSUMTYPE="SHA-1" ID="rimm4" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii029/00000011.tif"/>
+</mets:file>
+<mets:file CHECKSUM="648760410a370a7410401ea4b0aed6b84a4cfa9b" CHECKSUMTYPE="SHA-1" ID="v3oj0" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1ii029/00000012.tif"/>
+</mets:file>
+</mets:fileGrp>
+</mets:fileSec>
+<mets:structMap TYPE="RelatedObjects">
+<mets:div DMDID="ogm9z a2738" ID="do24i" LABEL="Default">
+<mets:div CONTENTIDS="pudl0025" TYPE="IsPartOf"/>
+<mets:div ID="aggregates" TYPE="OrderedList">
+<mets:div ID="m12rc" LABEL="Enero Febrero" ORDER="1" TYPE="Static">
+<mets:fptr FILEID="ky97w"/>
+</mets:div>
+<mets:div ID="yjmkc" LABEL="Back of Enero Febrero" ORDER="2" TYPE="Static">
+<mets:fptr FILEID="lted3"/>
+</mets:div>
+<mets:div ID="xzsih" LABEL="Marzo Abril" ORDER="3" TYPE="Static">
+<mets:fptr FILEID="o4mzw"/>
+</mets:div>
+<mets:div ID="p78bi" LABEL="Back of Marzo Abril" ORDER="4" TYPE="Static">
+<mets:fptr FILEID="a7gkl"/>
+</mets:div>
+<mets:div ID="cb1la" LABEL="Mayo Junio" ORDER="5" TYPE="Static">
+<mets:fptr FILEID="rug4p"/>
+</mets:div>
+<mets:div ID="g3ix5" LABEL="Back of Mayo Junio" ORDER="6" TYPE="Static">
+<mets:fptr FILEID="nd2om"/>
+</mets:div>
+<mets:div ID="bl502" LABEL="Julio Agosto" ORDER="7" TYPE="Static">
+<mets:fptr FILEID="gqsth"/>
+</mets:div>
+<mets:div ID="j90tt" LABEL="Back of Julio Agosto" ORDER="8" TYPE="Static">
+<mets:fptr FILEID="u44xh"/>
+</mets:div>
+<mets:div ID="choki" LABEL="Septiembre Octubre" ORDER="9" TYPE="Static">
+<mets:fptr FILEID="r0z6i"/>
+</mets:div>
+<mets:div ID="qglqe" LABEL="Back of Septiembre Octubre" ORDER="10" TYPE="Static">
+<mets:fptr FILEID="pmv01"/>
+</mets:div>
+<mets:div ID="g6ua3" LABEL="Noviembre Diciembre" ORDER="11" TYPE="Static">
+<mets:fptr FILEID="rimm4"/>
+</mets:div>
+<mets:div ID="y7wk5" LABEL="Back of Noviembre Diciembre" ORDER="12" TYPE="Static">
+<mets:fptr FILEID="v3oj0"/>
+</mets:div>
+</mets:div>
+</mets:div>
+</mets:structMap>
+<mets:structMap TYPE="Physical">
+<mets:div DMDID="ogm9z a2738" ID="h26wk" LABEL="2004 Calendar" TYPE="FlipChart">
+<mets:div ID="t5enb" LABEL="Enero Febrero" TYPE="Sheet">
+<mets:div ID="lsysy" LABEL="front" ORDER="1" TYPE="Side">
+<mets:fptr FILEID="ky97w"/>
+</mets:div>
+<mets:div ID="ukf6l" LABEL="back" ORDER="2" TYPE="Side">
+<mets:fptr FILEID="lted3"/>
+</mets:div>
+</mets:div>
+<mets:div ID="biwc6" LABEL="Marzo Abril" TYPE="Sheet">
+<mets:div ID="xonju" LABEL="front" ORDER="3" TYPE="Side">
+<mets:fptr FILEID="o4mzw"/>
+</mets:div>
+<mets:div ID="zwqo8" LABEL="back" ORDER="4" TYPE="Side">
+<mets:fptr FILEID="a7gkl"/>
+</mets:div>
+</mets:div>
+<mets:div ID="fg0qb" LABEL="Mayo Junio" TYPE="Sheet">
+<mets:div ID="qzlxe" LABEL="front" ORDER="5" TYPE="Side">
+<mets:fptr FILEID="rug4p"/>
+</mets:div>
+<mets:div ID="g1v1f" LABEL="back" ORDER="6" TYPE="Side">
+<mets:fptr FILEID="nd2om"/>
+</mets:div>
+</mets:div>
+<mets:div ID="tckys" LABEL="Julio Agosto" TYPE="Sheet">
+<mets:div ID="y4vrt" LABEL="front" ORDER="7" TYPE="Side">
+<mets:fptr FILEID="gqsth"/>
+</mets:div>
+<mets:div ID="aa4bd" LABEL="back" ORDER="8" TYPE="Side">
+<mets:fptr FILEID="u44xh"/>
+</mets:div>
+</mets:div>
+<mets:div ID="hsn2k" LABEL="Septiembre Octubre" TYPE="Sheet">
+<mets:div ID="ewr0d" LABEL="front" ORDER="9" TYPE="Side">
+<mets:fptr FILEID="r0z6i"/>
+</mets:div>
+<mets:div ID="ft5pz" LABEL="Back of Septiembre Octubre" ORDER="10" TYPE="Side">
+<mets:fptr FILEID="pmv01"/>
+</mets:div>
+</mets:div>
+<mets:div ID="wq4bj" LABEL="Noviembre Diciembre" TYPE="Sheet">
+<mets:div ID="ktal7" LABEL="front" ORDER="11" TYPE="Side">
+<mets:fptr FILEID="rimm4"/>
+</mets:div>
+<mets:div ID="znl1o" LABEL="Back of Noviembre Diciembre" ORDER="12" TYPE="Side">
+<mets:fptr FILEID="v3oj0"/>
+</mets:div>
+</mets:div>
+</mets:div>
+</mets:structMap>
+</mets:mets>

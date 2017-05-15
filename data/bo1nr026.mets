@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OBJID="ark:/88435/gh93gz73b" TYPE="CompiledDigitalObject" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+<mets:metsHdr CREATEDATE="2017-05-13T14:59:32.477-04:00" LASTMODDATE="2017-05-13T14:59:32.477-04:00">
+<mets:metsDocumentID TYPE="PUDL">pudl0025/bo1nr026.mets</mets:metsDocumentID>
+</mets:metsHdr>
+<mets:dmdSec ID="wlsnl">
+<mets:mdRef LOCTYPE="URL" MDTYPE="MARC" xlink:href=""/>
+</mets:dmdSec>
+<mets:dmdSec ID="dfmg6">
+<mets:mdWrap MDTYPE="MODS">
+<mets:xmlData>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+   <mods:typeOfResource>still image</mods:typeOfResource>
+   <mods:titleInfo>
+      <mods:title>Datos de la gestión de los recursos naturales, la tierra y el territorio</mods:title>
+   </mods:titleInfo>
+   <mods:name type="corporate">
+      <mods:namePart>CEDIS</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name type="corporate">
+      <mods:namePart>CENDA</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name type="corporate">
+      <mods:namePart>CEJIS</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:originInfo>
+      <mods:place>
+         <mods:placeTerm type="text">[Bolivia]</mods:placeTerm>
+      </mods:place>
+      <mods:publisher>[s.n.]</mods:publisher>
+      <mods:dateIssued encoding="w3cdtf">2003</mods:dateIssued>
+   </mods:originInfo>
+   <mods:physicalDescription>
+      <mods:extent>43 × 60 cm.</mods:extent>
+   </mods:physicalDescription>
+   <mods:genre authority="aat" type="worktype">posters</mods:genre>
+   <mods:subject>
+      <mods:topic>Natural resources</mods:topic>
+      <mods:geographic>Bolivia</mods:geographic>
+   </mods:subject>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Latin American Posters Collection</mods:title>
+      </mods:titleInfo>
+   <mods:location>
+<mods:url>http://pudl.princeton.edu/collections/pudl0025</mods:url>
+</mods:location>
+</mods:relatedItem>
+   <mods:identifier type="local">bo1nr026</mods:identifier>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg" type="code">NjP</mods:physicalLocation>
+      <mods:physicalLocation type="text">Princeton University Library. Latin American Ephemera Collections.</mods:physicalLocation>
+      <mods:url access="object in context" usage="primary display"/>
+   </mods:location>
+   <mods:accessCondition type="restrictionOnAccess">The collection is open for research use.</mods:accessCondition>
+   <mods:accessCondition type="useAndReproduction">No restrictions. Researchers are responsible for determining
+      any copyright questions.</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:recordIdentifier>http://diglib.princeton.edu/mdata/pudl0025/bo1nr026.mods</mods:recordIdentifier>
+   </mods:recordInfo>
+</mods:mods>
+</mets:xmlData>
+</mets:mdWrap>
+</mets:dmdSec>
+<mets:fileSec>
+<mets:fileGrp USE="thumbnail">
+<mets:file ID="zvqgj" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1nr026/00000001.tif"/>
+</mets:file>
+</mets:fileGrp>
+<mets:fileGrp USE="masters">
+<mets:file CHECKSUM="14b60616a2a08ed3ef0face47e34db866b35c026" CHECKSUMTYPE="SHA-1" ID="pt9qo" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1nr026/00000001.tif"/>
+</mets:file>
+<mets:file CHECKSUM="2694b00466f9d8eecc481764dba3db03752a4299" CHECKSUMTYPE="SHA-1" ID="vzy8n" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1nr026/00000002.tif"/>
+</mets:file>
+<mets:file CHECKSUM="855d1a3b83f101eab82e3607d95547469c99a7ba" CHECKSUMTYPE="SHA-1" ID="x2142" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1nr026/00000003.tif"/>
+</mets:file>
+<mets:file CHECKSUM="93e8f76092627116fda9c27d038b43dfb96be75a" CHECKSUMTYPE="SHA-1" ID="n61qa" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1nr026/00000004.tif"/>
+</mets:file>
+<mets:file CHECKSUM="bccf321368bcf13a16ce8bb12967a2d1827d5109" CHECKSUMTYPE="SHA-1" ID="s9oep" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1nr026/00000005.tif"/>
+</mets:file>
+<mets:file CHECKSUM="3fe1bd5d81ae108d19612175044bc1dc5b921f7e" CHECKSUMTYPE="SHA-1" ID="cr1cq" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1nr026/00000006.tif"/>
+</mets:file>
+<mets:file CHECKSUM="ded8cffdb51db622bf6b55a80c345a0d96d75aae" CHECKSUMTYPE="SHA-1" ID="o417c" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1nr026/00000007.tif"/>
+</mets:file>
+<mets:file CHECKSUM="58cd7f8b1aae74d81a01d3e36e533d827ecc328c" CHECKSUMTYPE="SHA-1" ID="eamw9" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1nr026/00000008.tif"/>
+</mets:file>
+<mets:file CHECKSUM="d39254f308d08e530738213831d71ea1eafeee12" CHECKSUMTYPE="SHA-1" ID="sd0ll" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1nr026/00000009.tif"/>
+</mets:file>
+<mets:file CHECKSUM="edca7dc1c513749d0fdd69c3d118405a4f855ae5" CHECKSUMTYPE="SHA-1" ID="reval" MIMETYPE="image/tiff">
+<mets:FLocat LOCTYPE="URL" xlink:href="file:///mnt/diglibdata/pudl/pudl0025/bo1nr026/00000010.tif"/>
+</mets:file>
+</mets:fileGrp>
+</mets:fileSec>
+<mets:structMap TYPE="RelatedObjects">
+<mets:div DMDID="wlsnl dfmg6" ID="w3rnk" LABEL="Default">
+<mets:div CONTENTIDS="pudl0025" TYPE="IsPartOf"/>
+<mets:div ID="aggregates" TYPE="OrderedList">
+<mets:div ID="hcusu" LABEL="page001" ORDER="1" TYPE="Static">
+<mets:fptr FILEID="pt9qo"/>
+</mets:div>
+<mets:div ID="shof1" LABEL="page002" ORDER="2" TYPE="Static">
+<mets:fptr FILEID="vzy8n"/>
+</mets:div>
+<mets:div ID="eyd2f" LABEL="page003" ORDER="3" TYPE="Static">
+<mets:fptr FILEID="x2142"/>
+</mets:div>
+<mets:div ID="zxjsd" LABEL="page004" ORDER="4" TYPE="Static">
+<mets:fptr FILEID="n61qa"/>
+</mets:div>
+<mets:div ID="g0aou" LABEL="page005" ORDER="5" TYPE="Static">
+<mets:fptr FILEID="s9oep"/>
+</mets:div>
+<mets:div ID="xx875" LABEL="page006" ORDER="6" TYPE="Static">
+<mets:fptr FILEID="cr1cq"/>
+</mets:div>
+<mets:div ID="i5gyb" LABEL="page007" ORDER="7" TYPE="Static">
+<mets:fptr FILEID="o417c"/>
+</mets:div>
+<mets:div ID="yzztv" LABEL="page008" ORDER="8" TYPE="Static">
+<mets:fptr FILEID="eamw9"/>
+</mets:div>
+<mets:div ID="lfqoc" LABEL="page009" ORDER="9" TYPE="Static">
+<mets:fptr FILEID="sd0ll"/>
+</mets:div>
+<mets:div ID="v1uk6" LABEL="page010" ORDER="10" TYPE="Static">
+<mets:fptr FILEID="reval"/>
+</mets:div>
+</mets:div>
+</mets:div>
+</mets:structMap>
+<mets:structMap TYPE="Physical">
+<mets:div DMDID="wlsnl dfmg6" ID="obnvm" LABEL="Datos de la gestión de los recursos naturales, la       tierra y el territorio" TYPE="BoundEntity">
+<mets:div ID="as4io" LABEL="[cover]" ORDER="1" TYPE="Page">
+<mets:fptr FILEID="pt9qo"/>
+</mets:div>
+<mets:div ID="a796g" LABEL="leaf 1, front" ORDER="2" TYPE="Page">
+<mets:fptr FILEID="vzy8n"/>
+</mets:div>
+<mets:div ID="cvfg8" LABEL="leaf 2, front" ORDER="3" TYPE="Page">
+<mets:fptr FILEID="x2142"/>
+</mets:div>
+<mets:div ID="y3ri4" LABEL="leaf 3, front" ORDER="4" TYPE="Page">
+<mets:fptr FILEID="n61qa"/>
+</mets:div>
+<mets:div ID="gljcn" LABEL="leaf 4, front" ORDER="5" TYPE="Page">
+<mets:fptr FILEID="s9oep"/>
+</mets:div>
+<mets:div ID="h4ezi" LABEL="leaf 5, front" ORDER="6" TYPE="Page">
+<mets:fptr FILEID="cr1cq"/>
+</mets:div>
+<mets:div ID="gg3lk" LABEL="leaf 6, front" ORDER="7" TYPE="Page">
+<mets:fptr FILEID="o417c"/>
+</mets:div>
+<mets:div ID="ewfuk" LABEL="leaf 7, front" ORDER="8" TYPE="Page">
+<mets:fptr FILEID="eamw9"/>
+</mets:div>
+<mets:div ID="n2muc" LABEL="leaf 8, front" ORDER="9" TYPE="Page">
+<mets:fptr FILEID="sd0ll"/>
+</mets:div>
+<mets:div ID="aqg8s" LABEL="leaf 9, front" ORDER="10" TYPE="Page">
+<mets:fptr FILEID="reval"/>
+</mets:div>
+</mets:div>
+</mets:structMap>
+</mets:mets>
