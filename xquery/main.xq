@@ -24,8 +24,9 @@ declare function local:process_doc($doc as document-node())
         titles:title_from_doc($doc),
         titles:sort_title_from_doc($doc),
         titles:alt_titles_from_doc($doc),
+        dimensions:dimensions_from_doc($doc),
         subjects:subjects_from_doc($doc),
-        dimensions:dimensions_from_doc($doc)
+        json_helpers:k-vify("language", json_helpers:stringify("spa"))
     )
     return json_helpers:objectify($kvs)
 };
@@ -43,6 +44,7 @@ declare function local:main($docs as document-node()*)
 
 local:main($docs)
 
+(: distinct-values($docs//mods:languageTerm) :)
 (: for $doc in $docs
 return concat($doc//mods:extent, ' ', $doc//mods:recordIdentifier, '
 ') :)
