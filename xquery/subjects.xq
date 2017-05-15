@@ -1,5 +1,4 @@
 xquery version "1.0";
-
 module namespace subjects="http://localhost/lae/subjects";
 
 import module namespace json_helpers='http://localhost/json' at 'json_helpers.xq';

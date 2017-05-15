@@ -6,6 +6,7 @@ import module namespace subjects="http://localhost/lae/subjects" at 'subjects.xq
 import module namespace dimensions="http://localhost/lae/dimensions" at 'dimensions.xq';
 
 declare namespace mods='http://www.loc.gov/mods/v3';
+declare namespace mets='http://www.loc.gov/METS/';
 declare namespace saxon='http://saxon.sf.net/';
 
 declare option saxon:output 'method=text';
