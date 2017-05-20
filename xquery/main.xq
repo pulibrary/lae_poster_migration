@@ -25,6 +25,7 @@ declare function local:process_doc($doc as document-node())
         titles:title($doc),
         titles:sort_title($doc),
         titles:alt_titles($doc),
+        names:names($doc),
         geo:origin($doc),
         dates:date($doc),
         dimensions:dimensions($doc),

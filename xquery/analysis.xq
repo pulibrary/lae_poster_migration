@@ -21,7 +21,7 @@ declare variable $docs
 (: All subject strings :)
 (: topic geographic name are the elements used:)
 
-declare function local:process-subject($subject_element as element())
+(: declare function local:process-subject($subject_element as element())
   as xs:string {
   normalize-space(string-join($subject_element/*[not(local-name()="geographic")], '--'))
 };
@@ -33,7 +33,9 @@ let $subjects :=
 for $s in distinct-values($subjects)
 order by $s
 return concat('"', $s, '",', "
-")
+") :)
+
+distinct-values($docs//mods:name/count(./mods:namePart))
 
 (: return count(distinct-values($subjects)) :)
 
