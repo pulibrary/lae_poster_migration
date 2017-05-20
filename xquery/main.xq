@@ -2,6 +2,7 @@ xquery version "1.0";
 
 import module namespace json_helpers='http://localhost/json' at 'json_helpers.xqm';
 import module namespace titles="http://localhost/lae/titles" at 'titles.xqm';
+import module namespace ids="http://localhost/lae/ids" at 'identifiers.xqm';
 import module namespace names="http://localhost/lae/names" at 'names.xqm';
 import module namespace files="http://localhost/lae/files" at 'files.xqm';
 import module namespace geo="http://localhost/lae/geo" at 'geo.xqm';
@@ -21,6 +22,7 @@ declare variable $docs as document-node()+ := collection($collection_arg);
 declare function local:process_doc($doc as document-node())
   as xs:string {
     let $kvs as xs:string* := (
+        ids:ids($doc),
         titles:title($doc),
         titles:sort_title($doc),
         titles:alt_titles($doc),

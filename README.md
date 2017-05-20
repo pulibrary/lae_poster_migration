@@ -12,10 +12,12 @@ There are two scripts that can be run:
 
 Output is an array of JSON objects similar to this:
 
-***TODO:*** ARK and PUDL ids.
-
 ```javascript
 {
+  "ids": {
+    "ark": "ark:/88435/z890rv614",
+    "pudl": "pudl0025/02/0001"
+  },
   "title": "\"El Quijote los niños\"",
   "sort_title": "quijote los niños",
   "alt_titles": [
