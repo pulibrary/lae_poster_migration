@@ -21,6 +21,12 @@
          <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
       </mods:role>
    </mods:name>
+   <mods:name type="corporate">
+      <mods:namePart>Ejército Zapatista de Liberación Nacional</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
+      </mods:role>
+   </mods:name>
    <mods:originInfo>
       <mods:place>
          <mods:placeTerm type="text">[Mexico]</mods:placeTerm>
@@ -32,11 +38,6 @@
       <mods:extent>58 × 39 cm.</mods:extent>
    </mods:physicalDescription>
    <mods:genre authority="aat" type="worktype">posters</mods:genre>
-   <mods:subject>
-      <mods:name suType="corporate">
-         <mods:namePart>Ejército Zapatista de Liberación Nacional</mods:namePart>
-      </mods:name>
-   </mods:subject>
    <mods:relatedItem type="host">
       <mods:titleInfo>
          <mods:title>Latin American Posters Collection</mods:title>
