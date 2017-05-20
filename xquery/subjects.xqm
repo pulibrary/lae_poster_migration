@@ -14,7 +14,7 @@ declare namespace mets='http://www.loc.gov/METS/';
  : What's here now just brings them in the doc as-is.
  :)
 
-declare function subjects:subjects_from_doc($doc as document-node())
+declare function subjects:subjects($doc as document-node())
   as xs:string* {
     let $subjects as xs:string* :=
         for $s in $doc//mods:subject

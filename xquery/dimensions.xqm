@@ -13,7 +13,7 @@ declare namespace mets='http://www.loc.gov/METS/';
  : What's here now just brings them in the doc as-is.
  :)
 
-declare function dimensions:dimensions_from_doc($doc as document-node())
+declare function dimensions:dimensions($doc as document-node())
   as xs:string* {
     let $extent as xs:string? := normalize-space($doc//mods:extent/string()),
         $tokens as xs:string+ := dimensions:tokenize($extent),

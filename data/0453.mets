@@ -22,10 +22,10 @@
    <mods:typeOfResource collection="yes" manuscript="yes">still image</mods:typeOfResource>
    <mods:genre authority="aat">Posters</mods:genre>
    <mods:originInfo>
-      <mods:place>
-         <mods:placeTerm type="text">200?</mods:placeTerm>
-      </mods:place>
-      <mods:dateIssued encoding="w3cdtf" keyDate="yes">[n.d.]</mods:dateIssued>
+     <mods:place>
+        <mods:placeTerm type="text">Bolivia</mods:placeTerm>
+     </mods:place>
+      <mods:dateIssued encoding="w3cdtf" keyDate="yes">200?</mods:dateIssued>
    </mods:originInfo>
    <mods:language>
       <mods:languageTerm authority="iso639-2b" type="code">spa</mods:languageTerm>
