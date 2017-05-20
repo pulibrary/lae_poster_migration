@@ -26,7 +26,6 @@
          <mods:placeTerm type="text">Argentina</mods:placeTerm>
       </mods:place>
       <mods:dateIssued encoding="w3cdtf" keyDate="yes" point="start">2000</mods:dateIssued>
-      <mods:dateIssued encoding="w3cdtf" point="end"/>
    </mods:originInfo>
    <mods:language>
       <mods:languageTerm authority="iso639-2b" type="code">spa</mods:languageTerm>

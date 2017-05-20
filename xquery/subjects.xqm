@@ -1,7 +1,7 @@
 xquery version "1.0";
 module namespace subjects="http://localhost/lae/subjects";
 
-import module namespace json_helpers='http://localhost/json' at 'json_helpers.xq';
+import module namespace json_helpers='http://localhost/json' at 'json_helpers.xqm';
 
 declare namespace mods="http://www.loc.gov/mods/v3";
 declare namespace mets='http://www.loc.gov/METS/';

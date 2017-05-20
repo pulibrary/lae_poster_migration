@@ -1,12 +1,13 @@
 xquery version "1.0";
 
-import module namespace json_helpers='http://localhost/json' at 'json_helpers.xq';
-import module namespace titles="http://localhost/lae/titles" at 'titles.xq';
-import module namespace subjects="http://localhost/lae/subjects" at 'subjects.xq';
-import module namespace dimensions="http://localhost/lae/dimensions" at 'dimensions.xq';
+import module namespace json_helpers='http://localhost/json' at 'json_helpers.xqm';
+import module namespace titles="http://localhost/lae/titles" at 'titles.xqm';
+import module namespace names="http://localhost/lae/names" at 'names.xqm';
+import module namespace dates="http://localhost/lae/dates" at 'dates.xqm';
+import module namespace subjects="http://localhost/lae/subjects" at 'subjects.xqm';
+import module namespace dimensions="http://localhost/lae/dimensions" at 'dimensions.xqm';
 
 declare namespace mods='http://www.loc.gov/mods/v3';
-declare namespace mets='http://www.loc.gov/METS/';
 declare namespace saxon='http://saxon.sf.net/';
 
 declare option saxon:output 'method=text';
@@ -24,6 +25,7 @@ declare function local:process_doc($doc as document-node())
         titles:title_from_doc($doc),
         titles:sort_title_from_doc($doc),
         titles:alt_titles_from_doc($doc),
+        dates:date($doc),
         dimensions:dimensions_from_doc($doc),
         subjects:subjects_from_doc($doc),
         json_helpers:k-vify("language", json_helpers:stringify("spa"))
@@ -43,8 +45,3 @@ declare function local:main($docs as document-node()*)
 };
 
 local:main($docs)
-
-(: distinct-values($docs//mods:languageTerm) :)
-(: for $doc in $docs
-return concat($doc//mods:extent, ' ', $doc//mods:recordIdentifier, '
-') :)
