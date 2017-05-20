@@ -12,6 +12,8 @@ There are two scripts that can be run:
 
 Output is an array of JSON objects similar to this:
 
+***TODO:*** ARK and PUDL ids.
+
 ```javascript
 {
   "title": "\"El Quijote los niños\"",

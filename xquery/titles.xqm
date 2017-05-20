@@ -11,14 +11,12 @@ declare function titles:title($doc as document-node())
     return json_helpers:k-vify('title', json_helpers:stringify($title_s))
 };
 
-(:
- : TODO: Seems like a lot of titles are missing nonSorts--could try to make
- : these better
-:)
 declare function titles:sort_title($doc as document-node())
   as xs:string {
-    let $title_s := lower-case($doc//mods:mods/mods:titleInfo[position()=1]/mods:title)
-    return json_helpers:k-vify('sort_title', json_helpers:stringify($title_s))
+    let $title as xs:string := $doc//mods:mods/mods:titleInfo[position()=1]/mods:title/string(),
+        $title as xs:string := lower-case(replace($title, "\p{P}", "")),
+        $title as xs:string := replace($title, "^(el|la|las|lo|los|un|una) ", "")
+    return json_helpers:k-vify('sort_title', json_helpers:stringify($title))
 };
 
 (: Note, the whole set seems to have only one alt title! :)

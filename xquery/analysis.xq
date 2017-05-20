@@ -16,7 +16,9 @@ declare variable $collection_params as xs:string := '?select=*.mets';
 declare variable $docs
   as document-node()+ := collection(concat($src_dir, $collection_params));
 
-
+for $doc in $docs
+where count($doc//mods:mods/mods:titleInfo)=0
+return $doc//mods:recordInfo
 
 (: All subject strings :)
 (: topic geographic name are the elements used:)
@@ -35,7 +37,7 @@ order by $s
 return concat('"', $s, '",', "
 ") :)
 
-distinct-values($docs//mets:fileGrp[@USE="masters"]/count(mets:file))
+(: distinct-values($docs//mets:fileGrp[@USE="masters"]/count(mets:file)) :)
 
 (: return count(distinct-values($subjects)) :)
 

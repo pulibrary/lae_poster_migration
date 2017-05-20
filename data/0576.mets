@@ -10,12 +10,9 @@
 <mets:mdWrap MDTYPE="MODS">
 <mets:xmlData>
 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3             http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
-   <mods:name type="corporate">
-      <mods:namePart>problem</mods:namePart>
-      <mods:role>
-         <mods:roleTerm authority="marcrelator" type="code">cre</mods:roleTerm>
-      </mods:role>
-   </mods:name>
+  <mods:titleInfo>
+     <mods:title>[]</mods:title>
+  </mods:titleInfo>
    <mods:typeOfResource collection="yes" manuscript="yes">still image</mods:typeOfResource>
    <mods:genre authority="aat">Posters</mods:genre>
    <mods:originInfo>
