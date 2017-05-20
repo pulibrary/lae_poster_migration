@@ -17,7 +17,7 @@ declare function titles:title($doc as document-node())
 :)
 declare function titles:sort_title($doc as document-node())
   as xs:string {
-    let $title_s := $doc//mods:mods/mods:titleInfo[position()=1]/mods:title
+    let $title_s := lower-case($doc//mods:mods/mods:titleInfo[position()=1]/mods:title)
     return json_helpers:k-vify('sort_title', json_helpers:stringify($title_s))
 };
 

@@ -3,6 +3,7 @@ xquery version "1.0";
 import module namespace json_helpers='http://localhost/json' at 'json_helpers.xqm';
 import module namespace titles="http://localhost/lae/titles" at 'titles.xqm';
 import module namespace names="http://localhost/lae/names" at 'names.xqm';
+import module namespace files="http://localhost/lae/files" at 'files.xqm';
 import module namespace geo="http://localhost/lae/geo" at 'geo.xqm';
 import module namespace dates="http://localhost/lae/dates" at 'dates.xqm';
 import module namespace subjects="http://localhost/lae/subjects" at 'subjects.xqm';
@@ -14,10 +15,8 @@ declare option saxon:output 'method=text';
 
 declare variable $src_dir as xs:string external;
 
-(: Internal global vars :)
-declare variable $collection_params as xs:string := '?select=*.mets';
-declare variable $docs
-    as document-node()+ := collection(concat($src_dir, $collection_params));
+declare variable $collection_arg as xs:string := concat($src_dir, '?select=*.mets');
+declare variable $docs as document-node()+ := collection($collection_arg);
 
 declare function local:process_doc($doc as document-node())
   as xs:string {
@@ -31,7 +30,8 @@ declare function local:process_doc($doc as document-node())
         dimensions:dimensions($doc),
         geo:subject($doc),
         subjects:subjects($doc),
-        json_helpers:k-vify("language", json_helpers:stringify("spa"))
+        json_helpers:k-vify("language", json_helpers:stringify("spa")),
+        files:files($doc)
     )
     return json_helpers:objectify($kvs)
 };

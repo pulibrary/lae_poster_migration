@@ -35,7 +35,7 @@ order by $s
 return concat('"', $s, '",', "
 ") :)
 
-distinct-values($docs//mods:name/count(./mods:namePart))
+distinct-values($docs//mets:fileGrp[@USE="masters"]/count(mets:file))
 
 (: return count(distinct-values($subjects)) :)
 
