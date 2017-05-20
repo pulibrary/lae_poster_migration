@@ -28,6 +28,7 @@ declare function local:process_doc($doc as document-node())
         geo:origin($doc),
         dates:date($doc),
         dimensions:dimensions($doc),
+        geo:subject($doc),
         subjects:subjects($doc),
         json_helpers:k-vify("language", json_helpers:stringify("spa"))
     )

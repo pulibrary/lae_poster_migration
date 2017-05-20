@@ -18,10 +18,15 @@ declare variable $docs
 
 (: All subject strings :)
 (: topic geographic name are the elements used:)
-(: for $s in distinct-values($docs//mods:subject/string-join(*, '--'))
+(: for $s in distinct-values($docs//mods:geographic)
 order by $s
 return concat($s, "
 ") :)
+
+let $counts :=
+  for $doc in $docs
+  return count(distinct-values($doc//mods:geographic))
+return distinct-values($counts)
 
 (: distinct-values($docs//mods:originInfo/*/local-name()) :)
 (: for $place in distinct-values($docs//mods:placeTerm)
@@ -29,8 +34,8 @@ order by $place
 return concat($place, "
 ") :)
 
-for $doc in $docs
+(: for $doc in $docs
 let $place := $doc//mods:placeTerm
 where empty($place)
-return $doc//mods:recordIdentifier
+return $doc//mods:recordIdentifier :)
 (: place publisher dateIssued :)

@@ -11,6 +11,15 @@ declare function geo:origin($doc as document-node()) as xs:string {
   return json_helpers:k-vify("geo_origin", json_helpers:stringify($place))
 };
 
+declare function geo:subject($doc as document-node()) as xs:string? {
+  (: always 0 or 1 distinct-values :)
+  let $place as xs:string? := distinct-values($doc//mods:geographic/string())
+  return if ($place) then
+    let $val as xs:string := json_helpers:stringify($place)
+    return json_helpers:k-vify("geo_subject", $val)
+  else ()
+};
+
 declare function geo:strip_brackets($s as xs:string) as xs:string {
   replace($s, "[\[\]]", "")
 };
