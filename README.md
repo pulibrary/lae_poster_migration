@@ -35,7 +35,7 @@ Output is an array of JSON objects similar to this:
     "width": 46,
     "height": 32
   },
-  "subjects": [ // See below; more top do
+  "subjects": [ // See below; more to do
     "Labor unions",
     "Politics, activism and advocacy",
     "Labor unions--Political activity"
