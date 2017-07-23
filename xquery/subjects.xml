@@ -1,0 +1,2532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <subject>AIDS (Disease)</subject>
+    <category>Health</category>
+    <lae_subject>AIDS (Disease)</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Abandoned and street children</subject>
+    <category>Children and youth</category>
+    <lae_subject>Abandoned children</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Abandoned children</subject>
+    <category>Children and youth</category>
+    <lae_subject>Abandoned children</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Abortion</subject>
+    <category>Health</category>
+    <lae_subject>Abortion</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Adolescents</subject>
+    <category>Children and youth</category>
+    <lae_subject>Youth</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Adult education</subject>
+    <category>Education</category>
+    <lae_subject>Adult education</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Advertisements</subject>
+    <category>Tourism</category>
+    <lae_subject>Advertising--Tourism</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Advertising--Tourism</subject>
+    <category>Tourism</category>
+    <lae_subject>Advertising--Tourism</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Affirmative action</subject>
+    <category>Minorities, ethnic and racial groups</category>
+    <lae_subject>Affirmative action</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Afro-descendants</subject>
+    <category>Minorities, ethnic and racial groups</category>
+    <lae_subject>Blacks</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Agribusiness</subject>
+    <category>Agrarian and rural issues</category>
+    <lae_subject>Agricultural industries</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Agricultural development projects</subject>
+    <category>Agrarian and rural issues</category>
+    <lae_subject>Agricultural development projects</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Agricultural industries</subject>
+    <category>Agrarian and rural issues</category>
+    <lae_subject>Agricultural industries</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Agricultural laws and legislation</subject>
+    <category>Agrarian and rural issues</category>
+    <lae_subject>Agricultural laws and legislation</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Agricultural technology</subject>
+    <category>Agrarian and rural issues</category>
+    <lae_subject>Agricultural technology</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Agricultural workers</subject>
+    <category>Labor</category>
+    <lae_subject>Agricultural workers</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Agriculture</subject>
+    <category>Agrarian and rural issues</category>
+    <lae_subject>Agriculture</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Agriculture and agribusiness</subject>
+    <category>Agrarian and rural issues</category>
+    <lae_subject>Agricultural industries</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Agriculture and politics</subject>
+    <category>Agrarian and rural issues</category>
+    <lae_subject>Agriculture and politics</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Agriculture and state</subject>
+    <category>Agrarian and rural issues</category>
+    <lae_subject>Agriculture and state</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Agriculture--Economic aspects</subject>
+    <category>Agrarian and rural issues</category>
+    <lae_subject>Agriculture--Economic aspects</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Agriculture--Handbooks, manuals, etc.</subject>
+    <category>Agrarian and rural issues</category>
+    <lae_subject>Agriculture--Handbooks, manuals, etc.</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Archaeological sites</subject>
+    <category>Tourism</category>
+    <lae_subject>Archaeological sites</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Architecture</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Architecture</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Archives</subject>
+    <category>History</category>
+    <lae_subject>Archives</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Armed Forces</subject>
+    <category>Politics and government</category>
+    <lae_subject>Armed Forces</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Armed conflicts</subject>
+    <category>Politics and government</category>
+    <lae_subject>War</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Art</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Arts</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Arts</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Arts</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Arts and culture</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Arts ; Culture</lae_subject>
+    <yn>yy</yn>
+  </row>
+  <row>
+    <subject>Arts--Political aspects</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Arts--Political aspects</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Arts-political aspects</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Arts--Political aspects</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Bilingual education</subject>
+    <category>Education</category>
+    <lae_subject>Education, Bilingual</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Birth control</subject>
+    <category>Health</category>
+    <lae_subject>Birth control</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Birth control, contraception</subject>
+    <category>Health</category>
+    <lae_subject>Birth control ; Contraception</lae_subject>
+    <yn>yy</yn>
+  </row>
+  <row>
+    <subject>Birth control, contraception, reproductive rights</subject>
+    <category>Health</category>
+    <lae_subject>Birth control ; Contraception</lae_subject>
+    <yn>yy</yn>
+  </row>
+  <row>
+    <subject>Bisexual, transgender, transvestite</subject>
+    <category>Gender</category>
+    <lae_subject>Transgender people ; Sexual minorities</lae_subject>
+    <yn>yy</yn>
+  </row>
+  <row>
+    <subject>Bisexuals</subject>
+    <category>Gender</category>
+    <lae_subject>Sexual minorities</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Blacks</subject>
+    <category>Minorities, ethnic and racial groups</category>
+    <lae_subject>Blacks</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Business</subject>
+    <category>Economics</category>
+    <lae_subject>Business</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Child abuse</subject>
+    <category>Children and youth</category>
+    <lae_subject>Child abuse</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Child care</subject>
+    <category>Children and youth</category>
+    <lae_subject>Child care</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Child labor</subject>
+    <category>Children and youth</category>
+    <lae_subject>Child labor</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Child sexual abuse</subject>
+    <category>Children and youth</category>
+    <lae_subject>Child sexual abuse</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Children</subject>
+    <category>Children and youth</category>
+    <lae_subject>Children</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Children and politics</subject>
+    <category>Children and youth</category>
+    <lae_subject>Children--Government policy</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Children of prisoners</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Disappeared persons</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Children&apos;s rights</subject>
+    <category>Children and youth</category>
+    <lae_subject>Childrens&apos; rights</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Children--Crimes against</subject>
+    <category>Children and youth</category>
+    <lae_subject>Children--Crimes against</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Children--Government policy</subject>
+    <category>Children and youth</category>
+    <lae_subject>Children--Government policy</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Children--Legal status, laws, etc.</subject>
+    <category>Children and youth</category>
+    <lae_subject>Children--Legal status, laws, etc.</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Church and state</subject>
+    <category>Religion</category>
+    <lae_subject>Church and state</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Church and state relations</subject>
+    <category>Religion</category>
+    <lae_subject>Church and state</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Cinema</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Motion pictures</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>City planning</subject>
+    <category>Urban issues</category>
+    <lae_subject>City planning</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Civilization</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Culture</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Collective memory</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Collective memory</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>College students</subject>
+    <category>Education</category>
+    <lae_subject>Education, Higher</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Communication</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Mass media</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Communication and media</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Mass media</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Community and local development</subject>
+    <category>Socioeconomic conditions and development</category>
+    <lae_subject>Community development</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Community development</subject>
+    <category>Socioeconomic conditions and development</category>
+    <lae_subject>Community development</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Community development--Environmental aspects.</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Community development--Environmental aspects.</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Community initiatives</subject>
+    <category>Socioeconomic conditions and development</category>
+    <lae_subject>Community development</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Constitutions</subject>
+    <category>Politics and government</category>
+    <lae_subject>Constitutions</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Consumer protection</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Consumer protection</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Consumer protection--Political aspects.</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Consumer protection</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Consumer rights</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Consumer protection</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Contraception</subject>
+    <category>Health</category>
+    <lae_subject>Contraception</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Cooperative societies</subject>
+    <category>Economics</category>
+    <lae_subject>Cooperative societies</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Cooperatives</subject>
+    <category>Economics</category>
+    <lae_subject>Cooperative societies</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Corruption</subject>
+    <category>Politics and government</category>
+    <lae_subject>Political corruption</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Crime</subject>
+    <category>Urban issues</category>
+    <lae_subject>Crime</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Crime and violence</subject>
+    <category>Urban issues</category>
+    <lae_subject>Crime ; Urban violence</lae_subject>
+    <yn>yy</yn>
+  </row>
+  <row>
+    <subject>Crime prevention</subject>
+    <category>Urban issues</category>
+    <lae_subject>Crime</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Debts, External</subject>
+    <category>Economics</category>
+    <lae_subject>Debts, External</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Decentralization</subject>
+    <category>Politics and government</category>
+    <lae_subject>Decentralization in government</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Decentralization in government</subject>
+    <category>Politics and government</category>
+    <lae_subject>Decentralization in government</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Democracy</subject>
+    <category>Politics and government</category>
+    <lae_subject>Democracy</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Democracy and democratization</subject>
+    <category>Politics and government</category>
+    <lae_subject>Democracy</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Demography</subject>
+    <category>Socioeconomic conditions and development</category>
+    <lae_subject>Demography</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Disappeared persons</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Disappeared persons</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Discrimination</subject>
+    <category>Minorities, ethnic and racial groups</category>
+    <lae_subject>Discrimination</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Documentation</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Human rights</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Drug abuse</subject>
+    <category>Health</category>
+    <lae_subject>Substance abuse</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Drugs--Therapeutic use</subject>
+    <category>Health</category>
+    <lae_subject>Drugs--Therapeutic use</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Ecology</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Environment</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Economic and technical assitance</subject>
+    <category>Socioeconomic conditions and development</category>
+    <lae_subject>Economic assistance ; Technical assitance</lae_subject>
+    <yn>yy</yn>
+  </row>
+  <row>
+    <subject>Economic assistance</subject>
+    <category>Socioeconomic conditions and development</category>
+    <lae_subject>Economic assistance</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Economic conditions</subject>
+    <category>Economics</category>
+    <lae_subject>Economic conditions</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Economic development</subject>
+    <category>Economics</category>
+    <lae_subject>Economic development</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Economic development projects</subject>
+    <category>Economics</category>
+    <lae_subject>Economic development</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Economic policy</subject>
+    <category>Economics</category>
+    <lae_subject>Economic policy</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Economic policy--Social aspects</subject>
+    <category>Economics</category>
+    <lae_subject>Economic policy--Social aspects</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Economic policy--citizen participation</subject>
+    <category>Socioeconomic conditions and development</category>
+    <lae_subject>Economic policy--citizen participation</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Economics--Political aspects</subject>
+    <category>Economics</category>
+    <lae_subject>Economics--Political aspects</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Ecotourism</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Ecotourism</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Ecumenical movement</subject>
+    <category>Religion</category>
+    <lae_subject>Ecumenical movement</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Education</subject>
+    <category>Education</category>
+    <lae_subject>Education</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Education and state</subject>
+    <category>Education</category>
+    <lae_subject>Education and state</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Education for ethnic and racial minorities</subject>
+    <category>Education</category>
+    <lae_subject>Minorities--Education</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Education for the poor</subject>
+    <category>Education</category>
+    <lae_subject>Poor--Education</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Education, Bilingual</subject>
+    <category>Education</category>
+    <lae_subject>Education, Bilingual</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Education, Higher</subject>
+    <category>Education</category>
+    <lae_subject>Education, Higher</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Education, Secondary</subject>
+    <category>Education</category>
+    <lae_subject>Education, Secondary</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Education--Parent participation</subject>
+    <category>Education</category>
+    <lae_subject>Education</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Education--Political aspects</subject>
+    <category>Education</category>
+    <lae_subject>Education--Political aspects</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Education--Study and teaching</subject>
+    <category>Education</category>
+    <lae_subject>Education--Study and teaching</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Educational change</subject>
+    <category>Education</category>
+    <lae_subject>Education</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Educational law and legislation</subject>
+    <category>Education</category>
+    <lae_subject>Educational law and legislation</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Educational system</subject>
+    <category>Education</category>
+    <lae_subject>Educational system</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Elections</subject>
+    <category>Politics and government</category>
+    <lae_subject>Elections</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Elections and voting</subject>
+    <category>Politics and government</category>
+    <lae_subject>Elections ; Voting</lae_subject>
+    <yn>yy</yn>
+  </row>
+  <row>
+    <subject>Employment</subject>
+    <category>Labor</category>
+    <lae_subject>Employment</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Employment and unemployment</subject>
+    <category>Labor</category>
+    <lae_subject>Employment</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Employment policies and analysis</subject>
+    <category>Labor</category>
+    <lae_subject>Employment</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Energy</subject>
+    <category></category>
+    <lae_subject></lae_subject>
+    <yn></yn>
+    <review_note>eliminate</review_note>
+  </row>
+  <row>
+    <subject>Energy conservation</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Energy conservation</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Environmental education</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Environmental education</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Environmental health</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Environmental health</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Environmental law</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Environmental law</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Environmental laws and legislation</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Environmental law</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Environmental policy</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Environmental policy</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Environmental protection</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Environmental protection</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Environmentalism</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Environmentalism</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Ethnic art</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Ethnic art</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Ethnic relations</subject>
+    <category>Minorities, ethnic and racial groups</category>
+    <lae_subject>Ethnic relations</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Europeans</subject>
+    <category>Minorities, ethnic and racial groups</category>
+    <lae_subject>Europeans</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Evangelicalism</subject>
+    <category>Religion</category>
+    <lae_subject>Evangelicalism</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Events and attractions</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Festivals</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Fairs</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Festivals</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Family</subject>
+    <category>Gender</category>
+    <lae_subject>Family</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Family and community action</subject>
+    <category>Gender</category>
+    <lae_subject>Family</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Family planning</subject>
+    <category>Health</category>
+    <lae_subject>Family planning</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Feminism</subject>
+    <category>Gender</category>
+    <lae_subject>Feminism</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Festivals</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Festivals</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Festivals and fairs</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Festivals</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Festivals, fairs</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Festivals</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Finance</subject>
+    <category>Economics</category>
+    <lae_subject>Finance</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Fiscal policy</subject>
+    <category>Economics</category>
+    <lae_subject>Economic policy</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Folk art</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Folk art</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Folklore</subject>
+    <category>Minorities, ethnic and racial groups</category>
+    <lae_subject>Folklore</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Forced migration</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Forced migration</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Foreign relations</subject>
+    <category>Politics and government</category>
+    <lae_subject>Foreign relations</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Forests and forestry</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Forests and forestry</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Freedom of expression</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Freedom of expression</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Freedom of the press</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Freedom of the press</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Gastronomy</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Gastronomy</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Gay culture</subject>
+    <category>Gender</category>
+    <lae_subject>Gay culture</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Gay rights</subject>
+    <category>Gender</category>
+    <lae_subject>Gay rights</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Gays</subject>
+    <category>Gender</category>
+    <lae_subject>Gays</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Gays--Legal status, laws, etc.</subject>
+    <category>Gender</category>
+    <lae_subject>Gays--Legal status, laws, etc.</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Genetically modified foods</subject>
+    <category>Agrarian and rural issues</category>
+    <lae_subject>Genetically modified foods</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Global warming</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Climatic changes</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Globalization</subject>
+    <category>Socioeconomic conditions and development</category>
+    <lae_subject>Globalization</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Government and policies</subject>
+    <category>Politics and government</category>
+    <lae_subject>Government policy</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Government policy</subject>
+    <category>Politics and government</category>
+    <lae_subject>Government policy</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Government, policies</subject>
+    <category>Politics and government</category>
+    <lae_subject>Government policy</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Government, policies, legislation</subject>
+    <category>Politics and government</category>
+    <lae_subject>Government policy</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Guerrillas</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Guerrillas</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Guidebooks</subject>
+    <category>Tourism</category>
+    <lae_subject>Guidebooks</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Guides</subject>
+    <category>Tourism</category>
+    <lae_subject>Guidebooks</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>HIV infections</subject>
+    <category>Health</category>
+    <lae_subject>HIV infections</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>HIV-positive women</subject>
+    <category>Health</category>
+    <lae_subject>HIV infections</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>HIV/AIDS</subject>
+    <category>Health</category>
+    <lae_subject>AIDS (Disease)</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Health</subject>
+    <category>Health</category>
+    <lae_subject>Health</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Health and the environment</subject>
+    <category>Health</category>
+    <lae_subject>Health--Environmental aspects</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Health care</subject>
+    <category>Health</category>
+    <lae_subject>Medical care</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Health education</subject>
+    <category>Health</category>
+    <lae_subject>Health education</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Health facilities</subject>
+    <category>Health</category>
+    <lae_subject>Health facilities</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Health policy</subject>
+    <category>Health</category>
+    <lae_subject>Health policy</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Health--Environmental aspects</subject>
+    <category>Health</category>
+    <lae_subject>Health--Environmental aspects</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Higher education</subject>
+    <category>Education</category>
+    <lae_subject>Education, Higher</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>History</subject>
+    <category>History</category>
+    <lae_subject>History</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Homophobia</subject>
+    <category>Gender</category>
+    <lae_subject>Sex discrimination</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Housing</subject>
+    <category>Socioeconomic conditions and development</category>
+    <lae_subject>Housing</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Human rights</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Human rights</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Human rights advocacy</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Human rights advocacy</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Human rights--Government policy</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Human rights--Government policy</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Human rights--Law and legislation</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Human rights--Law and legislation</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Hydrocarbons</subject>
+    <category>Socioeconomic conditions and development</category>
+    <lae_subject>Hydrocarbons</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Immigrants</subject>
+    <category>Minorities, ethnic and racial groups</category>
+    <lae_subject>Immigrants</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Independent churches</subject>
+    <category>Religion</category>
+    <lae_subject>Independent churches</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Indigenous and ethnic art</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Indigenous art</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Indigenous art</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Indigenous art</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Indigenous peoples</subject>
+    <category>Minorities, ethnic and racial groups</category>
+    <lae_subject>Indigenous peoples</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Indigenous peoples --Legal status, laws, etc.</subject>
+    <category>Minorities, ethnic and racial groups</category>
+    <lae_subject>Indigenous peoples --Legal status, laws, etc.</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Indigenous peoples--Civil rights</subject>
+    <category>Minorities, ethnic and racial groups</category>
+    <lae_subject>Indigenous peoples --Legal status, laws, etc.</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Indigenous peoples--Legal status, laws, etc.</subject>
+    <category>Minorities, ethnic and racial groups</category>
+    <lae_subject>Indigenous peoples --Legal status, laws, etc.</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Indigenous, ethnic and racial minorities</subject>
+    <category>Minorities, ethnic and racial groups</category>
+    <lae_subject>Minorities</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Industries</subject>
+    <category>Economics</category>
+    <lae_subject>Industries</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Infants</subject>
+    <category>Children and youth</category>
+    <lae_subject>Children</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Informal sector</subject>
+    <category>Economics</category>
+    <lae_subject>Informal sector (Economics)</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Informal sector (Economics)</subject>
+    <category>Economics</category>
+    <lae_subject>Informal sector (Economics)</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Infrastructure</subject>
+    <category>Socioeconomic conditions and development</category>
+    <lae_subject>Infrastructure (Economics)</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Infrastructure (Economics)</subject>
+    <category>Economics</category>
+    <lae_subject>Infrastructure (Economics)</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Infrastructure projects</subject>
+    <category>Economics</category>
+    <lae_subject>Infrastructure (Economics)</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>International agencies</subject>
+    <category>Politics and government</category>
+    <lae_subject>International agencies</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>International and transnational organizations</subject>
+    <category>Politics and government</category>
+    <lae_subject>International agencies</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>International organizations</subject>
+    <category>Politics and government</category>
+    <lae_subject>International agencies</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Labor</subject>
+    <category>Labor</category>
+    <lae_subject>Labor</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Labor laws and legislation</subject>
+    <category>Labor</category>
+    <lae_subject>Labor laws and legislation</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Labor market</subject>
+    <category>Labor</category>
+    <lae_subject>Labor market</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Labor unions</subject>
+    <category>Labor</category>
+    <lae_subject>Labor unions</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Labor unions--Political activity</subject>
+    <category>Labor</category>
+    <lae_subject>Labor unions--Political activity</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Land reform</subject>
+    <category>Agrarian and rural issues</category>
+    <lae_subject>Land reform</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Land tenure--Social aspects</subject>
+    <category>Agrarian and rural issues</category>
+    <lae_subject>Land reform</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Language and languages</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Language and languages</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Law</subject>
+    <category>Politics and government</category>
+    <lae_subject>Laws</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Laws</subject>
+    <category>Politics and government</category>
+    <lae_subject>Laws</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Laws and legislation</subject>
+    <category>Politics and government</category>
+    <lae_subject>Laws</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Laws and regulations</subject>
+    <category>Politics and government</category>
+    <lae_subject>Laws</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Legislative elections</subject>
+    <category>Politics and government</category>
+    <lae_subject>Elections</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Leisure</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Sports ; Recreation</lae_subject>
+    <yn>yy</yn>
+  </row>
+  <row>
+    <subject>Lesbian culture</subject>
+    <category>Gender</category>
+    <lae_subject>Lesbian culture</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Higher education</subject>
+    <category>Education</category>
+    <lae_subject>Education, Higher</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Literature</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Literature</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Local and municipal politics</subject>
+    <category>Politics and government</category>
+    <lae_subject>Local government</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Local elections</subject>
+    <category>Politics and government</category>
+    <lae_subject>Elections</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Local government</subject>
+    <category>Politics and government</category>
+    <lae_subject>Local government</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Local government --Economic aspects</subject>
+    <category>Economics</category>
+    <lae_subject>Local government --Economic aspects</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Marine resources</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Marine resources</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Mass media</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Mass media</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Massacres</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Massacres</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Medical infrastructure and resources</subject>
+    <category>Health</category>
+    <lae_subject>Health facilities</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Medicines</subject>
+    <category>Health</category>
+    <lae_subject>Medical care</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Memory</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Collective memory</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Micro-enterprises and credit</subject>
+    <category>Socioeconomic conditions and development</category>
+    <lae_subject>Small business</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Microfinance</subject>
+    <category>Economics</category>
+    <lae_subject>Finance</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Migrant Labor</subject>
+    <category>Labor</category>
+    <lae_subject>Migrant Labor</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Military</subject>
+    <category>Politics and government</category>
+    <lae_subject>Armed forces</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Militia</subject>
+    <category>Politics and government</category>
+    <lae_subject>Armed forces</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Mineral industries--environmental aspects</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Mineral industries--environmental aspects</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Mining</subject>
+    <category>Economics</category>
+    <lae_subject>Mines and mineral resources</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Minorities--Civil rights</subject>
+    <category>Minorities, ethnic and racial groups</category>
+    <lae_subject>Minorities--Legal status, laws, etc.</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Minorities--Education</subject>
+    <category>Education</category>
+    <lae_subject>Minorities--Education</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Minorities--Legal status, laws, etc.</subject>
+    <category>Minorities, ethnic and racial groups</category>
+    <lae_subject>Minorities--Legal status, laws, etc.</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Minorities--Politics and government</subject>
+    <category>Minorities, ethnic and racial groups</category>
+    <lae_subject>Minorities--Politics and government</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Missionaries</subject>
+    <category>Religion</category>
+    <lae_subject>Missionaries</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Monuments</subject>
+    <category>Tourism</category>
+    <lae_subject>Monuments</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Motion pictures</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Motion pictures</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Multicultural education</subject>
+    <category>Education</category>
+    <lae_subject>Multicultural education</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Municipal government</subject>
+    <category>Politics and government</category>
+    <lae_subject>Local government</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Municipal or local elections</subject>
+    <category>Politics and government</category>
+    <lae_subject>Elections</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Museums</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Museums</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Music</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Music</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Natural disasters</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Natural disasters</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Natural gas</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Natural gas</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Natural gas and hydrocarbons</subject>
+    <category>Socioeconomic conditions and development</category>
+    <lae_subject>Hydrocarbons</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Natural resources</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Natural resources</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Nature conservation</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Nature conservation</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Non-denominational Christian organizations</subject>
+    <category>Religion</category>
+    <lae_subject>Independent churches</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Non-governmental organizations</subject>
+    <category></category>
+    <lae_subject></lae_subject>
+    <yn></yn>
+    <review_note>eliminate</review_note>
+  </row>
+  <row>
+    <subject>Non-governmental organizations (NGOs)</subject>
+    <category></category>
+    <lae_subject></lae_subject>
+    <yn></yn>
+    <review_note>eliminate</review_note>
+  </row>
+  <row>
+    <subject>Nutrition</subject>
+    <category>Health</category>
+    <lae_subject>Nutrition</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Oil industry</subject>
+    <category>Economics</category>
+    <lae_subject>Oil industries</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Older people</subject>
+    <category>Health</category>
+    <lae_subject>Older people</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Organic farming</subject>
+    <category>Agrarian and rural issues</category>
+    <lae_subject>Organic farming</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Paramilitaries</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Paramilitaries</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Paramilitary forces</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Paramilitaries</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Parks</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>National parks and reserves</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Peace</subject>
+    <category>Politics and government</category>
+    <lae_subject>Peace agreements</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Pensions</subject>
+    <category>Labor</category>
+    <lae_subject>Pensions</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>People with disabilities</subject>
+    <category>Health</category>
+    <lae_subject>People with disabilities</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Performing arts</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Performing arts</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Pests</subject>
+    <category>Health</category>
+    <lae_subject>Pests</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Petroleum industry and trade</subject>
+    <category>Economics</category>
+    <lae_subject>Oil industries</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Police</subject>
+    <category>Politics and government</category>
+    <lae_subject>Public safety</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Police and policing</subject>
+    <category>Politics and government</category>
+    <lae_subject>Public safety</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Police brutality</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Police brutality</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Policy analysis</subject>
+    <category>Politics and government</category>
+    <lae_subject>Policy analysis</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Political activists</subject>
+    <category>Politics and government</category>
+    <lae_subject>Political participation</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Political activity</subject>
+    <category>Politics and government</category>
+    <lae_subject>Political participation</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Political campaigns</subject>
+    <category>Politics and government</category>
+    <lae_subject>Political campaigns</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Political corruption</subject>
+    <category>Politics and government</category>
+    <lae_subject>Political corruption</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Political opinion and analysis</subject>
+    <category>Politics and government</category>
+    <lae_subject>Policy analysis</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Political participation</subject>
+    <category>Politics and government</category>
+    <lae_subject>Political participation</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Political parties</subject>
+    <category>Politics and government</category>
+    <lae_subject>Political parties</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Political prisoners</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Political prisoners</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Political representation</subject>
+    <category></category>
+    <lae_subject></lae_subject>
+    <yn></yn>
+    <review_note>eliminate</review_note>
+  </row>
+  <row>
+    <subject>Political violence</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Political violence</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Politics and culture</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Politics and culture</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Politics and government</subject>
+    <category>Politics and government</category>
+    <lae_subject>Politics</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Politics and government--Citizen participation</subject>
+    <category>Politics and government</category>
+    <lae_subject>Political participation</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Politics, activism and advocacy</subject>
+    <category>Politics and government</category>
+    <lae_subject>Political participation</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Pollution</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Pollution</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Poor children</subject>
+    <category>Children and youth</category>
+    <lae_subject>Poor children</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Poor-Education</subject>
+    <category>Education</category>
+    <lae_subject>Poor--Education</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Popular culture</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Popular culture</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Popular education</subject>
+    <category>Education</category>
+    <lae_subject>Popular education</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Population</subject>
+    <category>Socioeconomic conditions and development</category>
+    <lae_subject>Demography</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Population and demography</subject>
+    <category>Socioeconomic conditions and development</category>
+    <lae_subject>Demography</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Poverty</subject>
+    <category>Socioeconomic conditions and development</category>
+    <lae_subject>Poverty</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Power resources</subject>
+    <category>Socioeconomic conditions and development</category>
+    <lae_subject>Power resources</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Power resources--Environmental aspects</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Power resources--Environmental aspects</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Presidential elections</subject>
+    <category>Politics and government</category>
+    <lae_subject>Presidents ; Elections</lae_subject>
+    <yn>yy</yn>
+  </row>
+  <row>
+    <subject>Presidents--Election</subject>
+    <category>Politics and government</category>
+    <lae_subject>Presidents ; Elections</lae_subject>
+    <yn>yy</yn>
+  </row>
+  <row>
+    <subject>Prisons</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Prisons</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Prostitution</subject>
+    <category>Gender</category>
+    <lae_subject>Prostitution</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Protest movements</subject>
+    <category>Politics and government</category>
+    <lae_subject>Protest movements</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Protests and strikes</subject>
+    <category>Politics and government</category>
+    <lae_subject>Protest movements</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Public health</subject>
+    <category>Health</category>
+    <lae_subject>Public health</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Public health--Citizenship participation</subject>
+    <category>Health</category>
+    <lae_subject>Public health--Citizenship participation</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Public investments</subject>
+    <category>Urban issues</category>
+    <lae_subject>Public works</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Public works</subject>
+    <category>Urban issues</category>
+    <lae_subject>Public works</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Public works and investments</subject>
+    <category>Urban issues</category>
+    <lae_subject>Public works</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Race relations</subject>
+    <category></category>
+    <lae_subject></lae_subject>
+    <yn></yn>
+    <review_note>eliminate</review_note>
+  </row>
+  <row>
+    <subject>Racism</subject>
+    <category>Minorities, ethnic and racial groups</category>
+    <lae_subject>Racism</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Racism and discrimination</subject>
+    <category>Minorities, ethnic and racial groups</category>
+    <lae_subject>Racism ; Discrimination</lae_subject>
+    <yn>yy</yn>
+  </row>
+  <row>
+    <subject>Recreation</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Sports ; Recreation</lae_subject>
+    <yn>yy</yn>
+  </row>
+  <row>
+    <subject>Recycling (Waste, etc.)</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Recycling (Waste, etc.)</lae_subject>
+    <yn>yy</yn>
+  </row>
+  <row>
+    <subject>Refugees</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Refugees</lae_subject>
+    <yn>y </yn>
+  </row>
+  <row>
+    <subject>Regulations</subject>
+    <category>Politics and government</category>
+    <lae_subject>Administrative regulations</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Religion</subject>
+    <category>Religion</category>
+    <lae_subject>Religion</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Religion and politics</subject>
+    <category>Religion</category>
+    <lae_subject>Religion and politics</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Religious education</subject>
+    <category>Religion</category>
+    <lae_subject>Religious education</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Reproductive health</subject>
+    <category>Gender</category>
+    <lae_subject>Reproductive health</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Reproductive rights</subject>
+    <category>Gender</category>
+    <lae_subject>Reproductive rights</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Revolutionaries</subject>
+    <category>Politics and government</category>
+    <lae_subject>Revolutionaries</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Revolutionary organizations</subject>
+    <category>Politics and government</category>
+    <lae_subject>Revolutionaries</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Rites and ceremonies</subject>
+    <category>Religion</category>
+    <lae_subject>Rites and ceremonies</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Rites, ceremonies and traditions</subject>
+    <category>Religion</category>
+    <lae_subject>Rites and ceremonies</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Rituals</subject>
+    <category>Religion</category>
+    <lae_subject>Rites and ceremonies</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Rural development projects</subject>
+    <category>Agrarian and rural issues</category>
+    <lae_subject>Rural development projects</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Sanitation</subject>
+    <category>Health</category>
+    <lae_subject>Sanitation</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Secondary education</subject>
+    <category>Education</category>
+    <lae_subject>Education, Secondary</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Self-determination, National</subject>
+    <category>Politics and government</category>
+    <lae_subject>Self-determination, National</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Senior citizens</subject>
+    <category>Health</category>
+    <lae_subject>Older people</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Sex discrimination</subject>
+    <category>Gender</category>
+    <lae_subject>Sex discrimination</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Sex discrimination against women</subject>
+    <category>Gender</category>
+    <lae_subject>Sex discrimination against women</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Sex instruction</subject>
+    <category>Children and youth</category>
+    <lae_subject>Sex instruction</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Sexual and reproductive health</subject>
+    <category>Gender</category>
+    <lae_subject>Sexual health</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Sexual education</subject>
+    <category>Children and youth</category>
+    <lae_subject>Sex instruction</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Sexual exploitation</subject>
+    <category>Gender</category>
+    <lae_subject>Sexual abuse victims</lae_subject>
+    <yn>y</yn>
+    <review_note>For review after migration: Children and youth - child sexual abuse</review_note>
+  </row>
+  <row>
+    <subject>Sexual health</subject>
+    <category>Gender</category>
+    <lae_subject>Sexual health</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Sexual minorities</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Sexual minorities</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Small business</subject>
+    <category>Socioeconomic conditions and development</category>
+    <lae_subject>Small business</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Social conditions</subject>
+    <category>Socioeconomic conditions and development</category>
+    <lae_subject>Social conditions</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Social movements</subject>
+    <category>Politics and government</category>
+    <lae_subject>Social movements</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Social policy</subject>
+    <category>Socioeconomic conditions and development</category>
+    <lae_subject>Social policy</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Social policy and policy implementation</subject>
+    <category>Socioeconomic conditions and development</category>
+    <lae_subject>Social policy</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Social policy--citizen participation</subject>
+    <category>Socioeconomic conditions and development</category>
+    <lae_subject>Social policy--Citizen participation</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Social rights--Government policy</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Civil rights--Government policy</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Sociology, Urban</subject>
+    <category></category>
+    <lae_subject></lae_subject>
+    <yn></yn>
+    <review_note>eliminate</review_note>
+  </row>
+  <row>
+    <subject>Spiritualism</subject>
+    <category>Religion</category>
+    <lae_subject>Spiritualism</lae_subject>
+    <yn>y </yn>
+  </row>
+  <row>
+    <subject>Sports and recreation</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Sports ; Recreation</lae_subject>
+    <yn>yy</yn>
+  </row>
+  <row>
+    <subject>State or provincial elections</subject>
+    <category>Politics and government</category>
+    <lae_subject>Elections</lae_subject>
+    <yn>yy</yn>
+  </row>
+  <row>
+    <subject>State violence</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Political violence</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>State-sponsored terrorism</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>State-sponsored terrorism</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Street children</subject>
+    <category>Children and youth</category>
+    <lae_subject>Abandoned children</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Strikes and lockouts</subject>
+    <category>Labor</category>
+    <lae_subject>Strikes and lockouts</lae_subject>
+    <yn></yn>
+    <review_note>Add as new LAE subject under Labor</review_note>
+  </row>
+  <row>
+    <subject>Student activism and protests</subject>
+    <category>Politics and government</category>
+    <lae_subject>Students--Political activity</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Student movements</subject>
+    <category>Politics and government</category>
+    <lae_subject>Students--Political activity</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Student unions</subject>
+    <category>Education</category>
+    <lae_subject>Student unions</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Students--Political activity</subject>
+    <category>Politics and government</category>
+    <lae_subject>Students--Political activity</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Substance abuse</subject>
+    <category>Health</category>
+    <lae_subject>Substance abuse</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Sustainable agriculture</subject>
+    <category>Agrarian and rural issues</category>
+    <lae_subject>Sustainable agriculture</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Sustainable development</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Sustainable development</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Taxation</subject>
+    <category>Economics</category>
+    <lae_subject>Fiscal policy</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Teachers</subject>
+    <category></category>
+    <lae_subject></lae_subject>
+    <yn></yn>
+    <review_note>eliminate</review_note>
+  </row>
+  <row>
+    <subject>Teachers and teaching</subject>
+    <category>Education</category>
+    <lae_subject>Study and teaching</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Teachers&apos; unions</subject>
+    <category>Education</category>
+    <lae_subject>Teachers&apos; unions</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Technical assistance</subject>
+    <category>Socioeconomic conditions and developments</category>
+    <lae_subject>Technical assistance</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Technology</subject>
+    <category>Science and technology</category>
+    <lae_subject>Science and technology</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Teenagers</subject>
+    <category>Children and youth</category>
+    <lae_subject>Teenagers</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Territory and homeland</subject>
+    <category>Politics and government</category>
+    <lae_subject>Self-determination, National</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Torture</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Torture</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Tourism</subject>
+    <category>Tourism</category>
+    <lae_subject>Tourism</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Tourism and gastronomy</subject>
+    <category>Tourism</category>
+    <lae_subject>Tourism and gastronomy</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Tourism--Economic aspects</subject>
+    <category>Tourism</category>
+    <lae_subject>Tourism--Economic aspects</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Tourism--Social aspects</subject>
+    <category>Tourism</category>
+    <lae_subject>Tourism--Social aspects</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Tourist maps</subject>
+    <category>Tourism</category>
+    <lae_subject>Tourist maps</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Trade associations</subject>
+    <category>Labor</category>
+    <lae_subject>Labor unions</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Traditional and indigenous practices</subject>
+    <category>Minorities, ethnic and racial groups</category>
+    <lae_subject>Culture ; Folklore</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Traditional farming</subject>
+    <category>Agrarian and rural issues</category>
+    <lae_subject>Traditional farming</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Traditional medicine</subject>
+    <category>Health</category>
+    <lae_subject>Traditional medicine</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Transgender people</subject>
+    <category>Gender</category>
+    <lae_subject>Transgender people</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Transportation</subject>
+    <category>Politics and government</category>
+    <lae_subject>Transportation</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Transvestites</subject>
+    <category>Gender</category>
+    <lae_subject>Sexual minorities</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Truth commissions</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Truth commissions</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>U.S. – Latin American relations</subject>
+    <category>Politics and government</category>
+    <lae_subject>Latin America--Relations--United States ; United States--Relations--Latin America</lae_subject>
+    <yn>yy</yn>
+  </row>
+  <row>
+    <subject>Unemployed</subject>
+    <category>Labor</category>
+    <lae_subject>Unemployed</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Unemployed workers and unemployment</subject>
+    <category>Labor</category>
+    <lae_subject>Unemployed</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Unemployment</subject>
+    <category>Labor</category>
+    <lae_subject>Unemployed</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>United States--Relations--Latin America</subject>
+    <category>Politics and government</category>
+    <lae_subject>Latin America--Relations--United States ; United States--Relations--Latin America</lae_subject>
+    <yn>yy</yn>
+  </row>
+  <row>
+    <subject>Universities and colleges</subject>
+    <category>Education</category>
+    <lae_subject>Higher education</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Universities and students</subject>
+    <category>Education</category>
+    <lae_subject>Universities and students</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Urban policy--Environmental aspects</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Urban policy--Environmental aspects</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Urban population</subject>
+    <category>Urban issues</category>
+    <lae_subject>Urban population</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Urban transportation</subject>
+    <category>Urban issues</category>
+    <lae_subject>Urban transportation</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Urban-rural migration</subject>
+    <category>Urban issues</category>
+    <lae_subject>Urban-rural migration</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Urbanization</subject>
+    <category>Urban issues</category>
+    <lae_subject>Land use, urban</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Violence</subject>
+    <category>Socioeconomic conditions and development</category>
+    <lae_subject>Violence</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Violence against</subject>
+    <category>Socioeconomic conditions and development</category>
+    <lae_subject>Violence</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Visual arts</subject>
+    <category>Arts and culture</category>
+    <lae_subject>Arts</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Vocational education</subject>
+    <category>Education</category>
+    <lae_subject>Vocational education</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Voting</subject>
+    <category>Politics and government</category>
+    <lae_subject>Voting</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>War</subject>
+    <category>Politics and government</category>
+    <lae_subject>War</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Waste disposal</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Waste disposal</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Waste disposal and recycling</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Waste disposal ; Recycling (Waste, etc.)</lae_subject>
+    <yn>yy</yn>
+  </row>
+  <row>
+    <subject>Water resources development</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Water use</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Water use</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Water use</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Water use and resources</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Water use</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Wildlife conservation</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Wildlife conservation</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Wildlife management</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Wildlife conservation</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Wildlife management and conservation</subject>
+    <category>Environment and ecology</category>
+    <lae_subject>Wildlife conservation</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Women</subject>
+    <category>Gender</category>
+    <lae_subject>Women</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Women&apos;s rights</subject>
+    <category>Human and civil rights</category>
+    <lae_subject>Women&apos;s rights</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Women--Crimes against</subject>
+    <category>Gender</category>
+    <lae_subject>Women--Crimes against</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Women--Education</subject>
+    <category>Gender</category>
+    <lae_subject>Women--Education</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Women--Employment</subject>
+    <category>Gender</category>
+    <lae_subject>Women--Employment</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Women--Government policy</subject>
+    <category>Gender</category>
+    <lae_subject>Women--Government policy</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Women--Health and hygiene</subject>
+    <category>Gender</category>
+    <lae_subject>Women--Health and hygiene</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Women--Legal status, laws, etc.</subject>
+    <category>Gender</category>
+    <lae_subject>Women--Legal status, laws, etc.</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Women--Political activity</subject>
+    <category>Gender</category>
+    <lae_subject>Women--Political activity</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Youth</subject>
+    <category>Children and youth</category>
+    <lae_subject>Youth</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Youth culture</subject>
+    <category>Children and youth</category>
+    <lae_subject>Youth</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Youth employment</subject>
+    <category>Children and youth</category>
+    <lae_subject>Child labor</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Youth--Attitudes</subject>
+    <category>Children and youth</category>
+    <lae_subject>Youth--Attitudes</lae_subject>
+    <yn>y</yn>
+  </row>
+  <row>
+    <subject>Youth--Conduct of life</subject>
+    <category>Children and youth</category>
+    <lae_subject>Youth</lae_subject>
+    <yn>y</yn>
+  </row>
+</root>
