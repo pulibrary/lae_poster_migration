@@ -46,7 +46,7 @@
       <mods:extent>70 x 100 cm.</mods:extent>
    </mods:physicalDescription>
    <mods:subject authority="local">
-      <mods:topic>Indigenous peoples --Legal status, laws, etc.</mods:topic>
+      <mods:topic>Indigenous peoples--Legal status, laws, etc.</mods:topic>
    </mods:subject>
    <mods:subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/sh93002386#concept">
       <mods:topic>Indigenous peoples</mods:topic>
